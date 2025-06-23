@@ -12,7 +12,7 @@
 - [21 декабря 2023 года](https://github.com/Aksel000/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%2012.21.2023)
 - [21 января 2024 года](https://github.com/Aksel000/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%201.21.2024)
 - [20 июня 2024 года](https://github.com/Aksel000/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%206.20.2024)
-- [12 июня 2025 года](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%206.12.2025) **🆕[Last Update]**
-
+- [12 июня 2025 года](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%206.12.2025)
+- [18 июня 2025 года](https://github.com/Aksel911/R2-Textures/tree/main/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%20COLLECTION/%5BGUI%5D%20%5BETC%5D%20R2%20KOREA%20OFF%206.18.2025) **🆕[Last Update]**
 
 > Большое спасибо [Никите Медведеву](https://vk.com/id46414942).
