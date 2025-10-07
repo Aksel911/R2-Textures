@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_D.T_s00049_D",
+    "Diffuse": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_D.T_s00049_D",
+    "PM_Normals": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_N.T_s00049_N",
+    "Normal": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_N.T_s00049_N",
+    "PM_SpecularMasks": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_ORM.T_s00049_ORM",
+    "ORM": "/Game/Art/Characters/Servant/s00049/Textures/T_s00049_ORM.T_s00049_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
