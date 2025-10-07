@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Flare/FX_T_RayPiece_01.FX_T_RayPiece_01",
+    "SpriteMask_Tex": "/Game/Art/Effects/02_Texture/Flare/FX_T_RayPiece_01.FX_T_RayPiece_01",
+    "SpriteTexture": "/Game/Art/Effects/02_Texture/Wave/FX_T_RingBlur_03.FX_T_RingBlur_03",
+    "FX_T_RingBlur_03": "/Game/Art/Effects/02_Texture/Wave/FX_T_RingBlur_03.FX_T_RingBlur_03"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Color": {
+        "R": 0.4,
+        "G": 0.16,
+        "B": 0.04,
+        "A": 1.0,
+        "Hex": "AA6F38"
+      },
+      "Emmisive_Color": {
+        "R": 1.0,
+        "G": 0.603333,
+        "B": 0.15,
+        "A": 1.0,
+        "Hex": "FFCC6C"
+      },
+      "ParticleColor": {
+        "R": 1.0,
+        "G": 0.958333,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFFBBC"
+      }
+    },
+    "Scalars": {
+      "Color_EXP": 2.0,
+      "ParticleColor_EXP": 50.0,
+      "Main_Speed_X": 0.0,
+      "Main_Speed_Y": -0.2,
+      "Tex_Tile_X": 1.0,
+      "Tex_Tile_Y": 0.4,
+      "Mask_SIze_X": 1.0,
+      "Mask_SIze_Y": 1.0,
+      "Mask_Speed_X": 0.0,
+      "Mask_Speed_Y": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

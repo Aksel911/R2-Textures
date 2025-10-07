@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "BTN_ArrowUp": "/Game/UMG/Resource/SpriteTexture/Button/BTN_ArrowUp.BTN_ArrowUp",
+    "FX_T_RongTrail_01": "/Game/Art/Effects/02_Texture/Light/FX_T_RongTrail_01.FX_T_RongTrail_01",
+    "SpriteTexture": "/Game/UMG/Resource/SpriteTexture/Button/BTN_ArrowUp.BTN_ArrowUp",
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_RongTrail_01.FX_T_RongTrail_01",
+    "Mask_TEX": "/Game/Art/Effects/02_Texture/Light/FX_T_RongTrail_01.FX_T_RongTrail_01"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Color": {
+        "R": 1.0,
+        "G": 0.177888,
+        "B": 0.051269,
+        "A": 1.0,
+        "Hex": "FF7540"
+      },
+      "Add_Color": {
+        "R": 1.0,
+        "G": 0.781675,
+        "B": 0.1,
+        "A": 1.0,
+        "Hex": "FFE559"
+      }
+    },
+    "Scalars": {
+      "Color_EXP": 2.0,
+      "Mask_EXP": 3.0,
+      "Mask_X": 0.0,
+      "Mask_Y": 0.6,
+      "Main_X": 0.0,
+      "Main_Y": 0.0,
+      "Tex_Tile_X": 1.0,
+      "Tex_Tile_Y": 3.5
+    },
+    "Switches": {},
+    "Properties": {
+      "NumCustomizedUVs": 1,
+      "bUsedWithParticleSprites": true,
+      "bUsedWithBeamTrails": true,
+      "bUsedWithSplineMeshes": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "5DF0AA70-45CBBE06-55089081-2DED1376",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}
