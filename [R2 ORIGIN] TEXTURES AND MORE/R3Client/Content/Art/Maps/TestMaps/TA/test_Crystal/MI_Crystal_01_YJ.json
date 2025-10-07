@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "CrystalShell": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "T_Ice_Noise": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_DecoDoom_01_D.FX_T_DecoDoom_01_D",
+    "Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_01.FX_T_SeamlessReflact_01",
+    "Mask": "/Game/Art/Effects/02_Texture/Light/FX_T_DecoDoom_01_D.FX_T_DecoDoom_01_D",
+    "FX_T_DecoDoom_01_D": "/Game/Art/Effects/02_Texture/Light/FX_T_DecoDoom_01_D.FX_T_DecoDoom_01_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BAN_CrystalV04_N_YJ.T_BAN_CrystalV04_N_YJ",
+    "Normal_Detail": "/Game/Art/Effects/02_Texture/Wave/FX_T_SeamlessNormal_01.FX_T_SeamlessNormal_01",
+    "Normal_Main": "/Game/Art/Enviroment/Natrue/T_BAN_CrystalV04_N_YJ.T_BAN_CrystalV04_N_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color_1": {
+        "R": 0.260417,
+        "G": 0.1758,
+        "B": 0.009997,
+        "A": 1.0,
+        "Hex": "8C7419"
+      },
+      "Color_2": {
+        "R": 0.250158,
+        "G": 0.044308,
+        "B": 0.019371,
+        "A": 1.0,
+        "Hex": "893B26"
+      }
+    },
+    "Scalars": {
+      "CrystalShell_Amount": 0.6,
+      "CrystalShell_UV": 1.0,
+      "Diffuse_Strength": 1.7,
+      "Emissive_1_Strength": 0.2,
+      "Emissive_2_Strength": 0.3,
+      "HeightRatio": 0.6,
+      "Mask_Contrast": 1.0,
+      "Metallic": 1.0,
+      "Normal_Detail_Strength": 15.0,
+      "Normal_Detail_UV": 2.5,
+      "Normal_Main_Strength": 3.0,
+      "Roughness": 0.5,
+      "Specular": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

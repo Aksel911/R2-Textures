@@ -1,0 +1,49 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_HorizontalFlagV01_D_VD.T_OD1_HorizontalFlagV01_D_VD",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_HorizontalFlagV01_D_VD.T_OD1_HorizontalFlagV01_D_VD",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_HorizontalFlagV01_N_VD.T_OD1_HorizontalFlagV01_N_VD",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_HorizontalFlagV01_N_VD.T_OD1_HorizontalFlagV01_N_VD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.970256,
+        "B": 0.604167,
+        "A": 1.0,
+        "Hex": "FFFCCC"
+      },
+      "WaveStrength": {
+        "R": 1.0,
+        "G": 20.0,
+        "B": 4.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "WaveSpeed": 1.5,
+      "WaveWidth": 250.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "Detail": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessNebula_01.FX_T_SeamlessNebula_01",
+    "FX_T_SeamlessNebula_01": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessNebula_01.FX_T_SeamlessNebula_01"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Center_Color": {
+        "R": 0.125376,
+        "G": 0.208333,
+        "B": 0.025835,
+        "A": 1.0,
+        "Hex": "637E2C"
+      },
+      "TopBottom_Color": {
+        "R": 0.208637,
+        "G": 0.127438,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "7E6400"
+      }
+    },
+    "Scalars": {
+      "Detail_Intensity": 10.0,
+      "Detail_UV": 14.0,
+      "Opacity_Center": 0.2,
+      "Opacity_TopBottom": 0.7,
+      "Metallic": 0.2,
+      "Roughness": 0.5,
+      "BaseReflectFraction": 0.04,
+      "Exponent": 5.0,
+      "Refraction": 1.5,
+      "TopBottom_Intensity": 4.0,
+      "TopBottom_Power": 15.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

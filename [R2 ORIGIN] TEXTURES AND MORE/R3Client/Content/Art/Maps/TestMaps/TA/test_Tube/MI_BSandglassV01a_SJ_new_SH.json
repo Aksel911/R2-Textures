@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "CubeMap": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/carpentry_shop_01_2k_WSD.carpentry_shop_01_2k_WSD",
+    "carpentry_shop_01_2k_WSD": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/carpentry_shop_01_2k_WSD.carpentry_shop_01_2k_WSD",
+    "Detail": "/Game/Art/Enviroment/Ground/LT_Snow_Ice_V05_YJ.LT_Snow_Ice_V05_YJ",
+    "LT_Snow_Ice_V05_YJ": "/Game/Art/Enviroment/Ground/LT_Snow_Ice_V05_YJ.LT_Snow_Ice_V05_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Center_Color": {
+        "R": 0.463542,
+        "G": 0.728989,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "B5DEFF"
+      },
+      "TopBottom_Color": {
+        "R": 0.074653,
+        "G": 0.236422,
+        "B": 0.447917,
+        "A": 1.0,
+        "Hex": "4D86B3"
+      }
+    },
+    "Scalars": {
+      "CubeMap_Intensity": 0.3,
+      "Detail_Intensity": 1.0,
+      "Detail_UV": 1.0,
+      "Opacity_Center": 0.15,
+      "Opacity_TopBottom": 0.7,
+      "Roughness": 1.0,
+      "BaseReflectFraction": 0.04,
+      "Exponent": 5.0,
+      "Refraction": 1.5,
+      "TopBottom_Intensity": 4.281826,
+      "TopBottom_Power": 5.076345,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}
