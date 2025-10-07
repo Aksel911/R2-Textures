@@ -1,0 +1,65 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Colour": {
+        "R": 0.030977,
+        "G": 0.046501,
+        "B": 0.0625,
+        "A": 1.0,
+        "Hex": "313D46"
+      }
+    },
+    "Scalars": {
+      "CubeMap_Fresnel": -0.015,
+      "CubeMap_Intensity": 0.15,
+      "Emissive": 0.4,
+      "FadeDistance": 10.0,
+      "Ocean_Depth": 0.035,
+      "Opacity": 0.45,
+      "OpacityDeep": 1.5,
+      "FarNormal_Flatten": 0.7,
+      "FarNormal_Speed": 0.0,
+      "FarNormal_UVScale": 200.0,
+      "Foam1_Power": 1.5,
+      "Foam1_Scale": 15.0,
+      "Foam1_Speed": 0.05,
+      "Foam1_Tiling": 3.0,
+      "Foam2_Power": 1.5,
+      "Foam2_Scale": 10.0,
+      "Foam2_Speed": 0.1,
+      "Foam2_Tiling": 2.0,
+      "SeaFoam_Emissive": 0.3,
+      "EdgeFoam_Depth": 1.0,
+      "EdgeFoam_Emissive": 0.8,
+      "EdgeFoam_Power": 0.8,
+      "EdgeFoam_Scale": 10.0,
+      "EdgeFoam_SpeedX": 0.01,
+      "EdgeFoam_Tiling": 1.0,
+      "Wave1_Power": 0.8,
+      "Wave1_Scale": 100.0,
+      "Wave1_Speed": 0.01,
+      "Wave1_SpeedX": 0.005,
+      "Wave1_Tiling": 3.0,
+      "Master_Intensity": 1.0,
+      "Master_Speed": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": true
+  }
+}

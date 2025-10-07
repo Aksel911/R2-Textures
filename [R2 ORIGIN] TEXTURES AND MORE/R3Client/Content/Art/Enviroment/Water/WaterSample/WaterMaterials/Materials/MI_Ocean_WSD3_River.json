@@ -1,0 +1,60 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Colour": {
+        "R": 0.008087,
+        "G": 0.017976,
+        "B": 0.026042,
+        "A": 1.0,
+        "Hex": "16242C"
+      },
+      "ColourDeep": {
+        "R": 0.039443,
+        "G": 0.037345,
+        "B": 0.06,
+        "A": 1.0,
+        "Hex": "383645"
+      }
+    },
+    "Scalars": {
+      "CubeMap_Fresnel": 0.5,
+      "CubeMap_Intensity": 0.06,
+      "Emissive": 0.1,
+      "FadeDistance": 120.0,
+      "Opacity": 0.6,
+      "OpacityDeep": 1.5,
+      "FakeSpec_Speed": 0.4,
+      "FarNormal_Flatten": 0.75,
+      "FarNormal_Speed": 0.015,
+      "FarNormal_UVScale": 512.0,
+      "Foam1_Power": 0.4,
+      "Foam1_Scale": 46.938816,
+      "Foam1_Speed": 0.0,
+      "Foam1_Tiling": 200.0,
+      "Foam2_Scale": 86.13702,
+      "Foam2_Speed": 0.02,
+      "Foam2_Tiling": 20.0,
+      "EdgeFoam_Depth": 20.0,
+      "EdgeFoam_Emissive": 0.6,
+      "EdgeFoam_Power": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": true
+  }
+}
