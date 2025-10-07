@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_HJ_D_Remove.T_DU2_SplitStoneV01_HJ_D_Remove",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_HJ_D_Remove.T_DU2_SplitStoneV01_HJ_D_Remove",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_E_SSM.T_DU2_SplitStoneV01_E_SSM",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_E_SSM.T_DU2_SplitStoneV01_E_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_HJ_N.T_DU2_SplitStoneV01_HJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DU2_SplitStoneV01_HJ_N.T_DU2_SplitStoneV01_HJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emissive_Color": {
+        "R": 0.598798,
+        "G": 0.464138,
+        "B": 0.614583,
+        "A": 1.0,
+        "Hex": "CCB6CE"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 3.0,
+      "Roughness": 0.6,
+      "Emissive_Brightness": 5.0,
+      "Emissive_Contrast": 1.0,
+      "Emissive_Saturation": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

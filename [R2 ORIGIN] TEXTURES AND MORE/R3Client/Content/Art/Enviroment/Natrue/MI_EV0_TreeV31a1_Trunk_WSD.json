@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_D.T_EV0_TreeV31a_JW_Trunk_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_D.T_EV0_TreeV31a_JW_Trunk_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_N.T_EV0_TreeV31a_JW_Trunk_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_N.T_EV0_TreeV31a_JW_Trunk_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

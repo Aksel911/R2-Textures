@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_wi3mcjtab_1K_D.T_Sandstone_Rocky_Ground_wi3mcjtab_1K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_wi3mcjtab_1K_D.T_Sandstone_Rocky_Ground_wi3mcjtab_1K_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_wi3mcjtab_1K_N.T_Sandstone_Rocky_Ground_wi3mcjtab_1K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_wi3mcjtab_1K_N.T_Sandstone_Rocky_Ground_wi3mcjtab_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.598958,
+        "G": 0.489615,
+        "B": 0.441119,
+        "A": 0.0,
+        "Hex": "CCBAB1"
+      }
+    },
+    "Scalars": {
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

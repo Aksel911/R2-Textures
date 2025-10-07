@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/NO2_CommendTileV01_D_HJ.NO2_CommendTileV01_D_HJ",
+    "Diffuse": "/Game/Art/Enviroment/Ground/NO2_CommendTileV01_D_HJ.NO2_CommendTileV01_D_HJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/NO2_CommendTileV01_N_HJ.NO2_CommendTileV01_N_HJ",
+    "Normal": "/Game/Art/Enviroment/Ground/NO2_CommendTileV01_N_HJ.NO2_CommendTileV01_N_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.125,
+        "G": 0.082636,
+        "B": 0.067237,
+        "A": 1.0,
+        "Hex": "635149"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Diffuse_Contrast": 1.1,
+      "Diffuse_Saturation": 0.8,
+      "Normal_Strength": 2.0,
+      "Metallic": 0.1,
+      "Roughness": 0.34,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

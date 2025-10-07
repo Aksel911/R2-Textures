@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_TreeRootV01_D_TEX_SP.T_LM2_ZA_Duelden_TreeRootV01_D_TEX_SP",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_TreeRootV01_D_TEX_SP.T_LM2_ZA_Duelden_TreeRootV01_D_TEX_SP",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_TreeRootV01_N_TEX_SP.T_LM2_ZA_Duelden_TreeRootV01_N_TEX_SP",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_TreeRootV01_N_TEX_SP.T_LM2_ZA_Duelden_TreeRootV01_N_TEX_SP"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.640625,
+        "G": 0.465494,
+        "B": 0.414032,
+        "A": 0.0,
+        "Hex": "D2B6AC"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.6,
+      "Roughness": 0.848,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

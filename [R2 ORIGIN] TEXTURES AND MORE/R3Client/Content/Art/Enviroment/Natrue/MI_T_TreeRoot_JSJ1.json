@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_TreeRoot_01_D.T_TreeRoot_01_D",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_TreeRoot_01_D.T_TreeRoot_01_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.581,
+        "G": 0.437141,
+        "B": 0.431093,
+        "A": 1.0,
+        "Hex": "C9B1B0"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.0,
+      "Base_Diffuse_Saturation": 0.6,
+      "Detail_Diffuse_Brightness": 0.8,
+      "Detail_Diffuse_Saturation": 0.75,
+      "AlphaOffset": 0.3,
+      "Blend_edge_thickness": 0.992538,
+      "CrackMask1": 34.606308,
+      "CrackMask2": -66.29689,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

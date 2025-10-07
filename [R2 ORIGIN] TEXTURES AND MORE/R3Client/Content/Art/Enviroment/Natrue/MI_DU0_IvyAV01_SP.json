@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_IvyAV01_D_SP.T_DU0_IvyAV01_D_SP",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_IvyAV01_D_SP.T_DU0_IvyAV01_D_SP"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.40625,
+        "G": 0.332848,
+        "B": 0.15446,
+        "A": 0.0,
+        "Hex": "AB9C6D"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

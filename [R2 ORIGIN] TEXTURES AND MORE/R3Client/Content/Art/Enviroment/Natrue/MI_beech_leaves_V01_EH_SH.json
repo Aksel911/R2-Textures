@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_OD0_GardentreeV01_GW.T_OD0_GardentreeV01_GW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_OD0_GardentreeV01_GW.T_OD0_GardentreeV01_GW"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.822917,
+        "G": 0.628776,
+        "B": 0.420031,
+        "A": 1.0,
+        "Hex": "EAD0AE"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.9,
+      "Diffuse_Contrast": 0.8,
+      "Diffuse_Brightness_Mobile": 2.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

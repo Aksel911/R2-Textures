@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW.T_CA0_EggV01_D_JW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW.T_CA0_EggV01_D_JW",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_N_JW.T_CA0_EggV01_N_JW",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_N_JW.T_CA0_EggV01_N_JW"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.869792,
+        "G": 0.755321,
+        "B": 0.720365,
+        "A": 0.0,
+        "Hex": "F0E2DD"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 1.0,
+      "Roughness": 0.096,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

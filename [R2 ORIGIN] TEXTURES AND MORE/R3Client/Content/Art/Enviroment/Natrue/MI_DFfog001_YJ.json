@@ -1,0 +1,40 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 3,
+    "ShadingModel": 0,
+    "Colors": {
+      "color": {
+        "R": 0.854167,
+        "G": 0.570839,
+        "B": 0.404839,
+        "A": 0.0,
+        "Hex": "EEC7AB"
+      }
+    },
+    "Scalars": {
+      "camera depthfade amount": 2000.0,
+      "depthfade": 168.71953,
+      "edgefeather": 0.941573,
+      "emissive": 0.65,
+      "pannerspeed": 1.1,
+      "speed x": 0.01,
+      "speed y": 0.02,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

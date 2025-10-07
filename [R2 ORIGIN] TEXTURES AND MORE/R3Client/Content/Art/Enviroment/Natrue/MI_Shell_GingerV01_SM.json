@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Shell_GingerV01_D_SM.T_Shell_GingerV01_D_SM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Shell_GingerV01_D_SM.T_Shell_GingerV01_D_SM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.880731,
+        "G": 1.0,
+        "B": 0.479167,
+        "A": 0.0,
+        "Hex": "F2FFB8"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

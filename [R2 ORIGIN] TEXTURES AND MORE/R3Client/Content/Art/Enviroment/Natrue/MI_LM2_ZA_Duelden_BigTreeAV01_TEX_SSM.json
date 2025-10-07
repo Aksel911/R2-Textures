@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_GrassyLayer_D_M.T_GrassyLayer_D_M",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_D_SSM.T_LM2_ZA_Duelden_BigTreeAV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_GrassyLayer_M.T_GrassyLayer_M",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_N_SSM.T_LM2_ZA_Duelden_BigTreeAV01_N_SSM",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_GrassyLayer_D_M.T_GrassyLayer_D_M",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_GrassyLayer_M.T_GrassyLayer_M",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_NO0_MossStoneV01_M_JW.T_NO0_MossStoneV01_M_JW",
+    "T_NO0_MossStoneV01_M_JW": "/Game/Art/Enviroment/Natrue/T_NO0_MossStoneV01_M_JW.T_NO0_MossStoneV01_M_JW"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.5,
+        "G": 0.263859,
+        "B": 0.243943,
+        "A": 1.0,
+        "Hex": "BC8C87"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.817708,
+        "G": 0.735602,
+        "B": 0.187391,
+        "A": 1.0,
+        "Hex": "EADF78"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 3.0,
+      "Base_Diffuse_Saturation": 0.8,
+      "Base_Normal_Intensity": 2.0,
+      "Detail_Diffuse_Brightness": 2.0,
+      "Detail_Diffuse_Saturation": 0.6,
+      "Detail_Diffuse_UVTiling": 2.0,
+      "Detail_Normal_Intensity": 2.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "AlphaOffset": 0.46326,
+      "Blend_edge_thickness": 0.656,
+      "Mask_Strength": 0.0,
+      "Pixel vs Vertex normal": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

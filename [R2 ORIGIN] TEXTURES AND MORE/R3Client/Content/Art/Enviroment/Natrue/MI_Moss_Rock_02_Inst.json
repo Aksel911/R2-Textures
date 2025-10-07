@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_Rock_CliffV01_D_SM.T_Rock_CliffV01_D_SM",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_Moss_Rock_02_N.T_Moss_Rock_02_N",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Moss_Rock_02_N.T_Moss_Rock_02_N",
+    "T_Moss_Rock_02_N": "/Game/Art/Enviroment/Natrue/T_Moss_Rock_02_N.T_Moss_Rock_02_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.561584,
+        "G": 0.604167,
+        "B": 0.456272,
+        "A": 1.0,
+        "Hex": "C6CCB4"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.859375,
+        "G": 0.859375,
+        "B": 0.859375,
+        "A": 1.0,
+        "Hex": "EFEFEF"
+      }
+    },
+    "Scalars": {
+      "Detail_Diffuse_UVTiling": 1.0,
+      "CrackMask1": -0.4,
+      "CrackMask2": -0.11,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

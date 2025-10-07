@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_EV0_MushroomV01_D_HA.T_EV0_MushroomV01_D_HA",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_EV0_MushroomV01_D_HA.T_EV0_MushroomV01_D_HA",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_LC1_Rock_V02_N_BK.T_LC1_Rock_V02_N_BK",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_LC1_Rock_V02_N_BK.T_LC1_Rock_V02_N_BK"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "Diffuse_Saturation": 0.3,
+      "Roughness": 0.512,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

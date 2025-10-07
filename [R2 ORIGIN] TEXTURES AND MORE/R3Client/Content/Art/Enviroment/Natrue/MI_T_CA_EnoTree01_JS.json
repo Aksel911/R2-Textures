@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CA_EnoTree01_D_JS.T_CA_EnoTree01_D_JS",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CA_EnoTree01_D_JS.T_CA_EnoTree01_D_JS",
+    "PM_Normals": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal",
+    "Normal": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness_Mobile": 1.0,
+      "Diffuse_Contrast_Mobile": 1.0,
+      "Diffuse_Saturation_Mobile": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

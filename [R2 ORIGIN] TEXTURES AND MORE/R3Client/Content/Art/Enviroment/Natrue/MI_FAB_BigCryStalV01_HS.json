@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_HS.T_FAB_BigCryStalV01_D_HS",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_HS.T_FAB_BigCryStalV01_D_HS",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_E_HS.T_FAB_BigCryStalV01_E_HS",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_E_HS.T_FAB_BigCryStalV01_E_HS",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_N_HS.T_FAB_BigCryStalV01_N_HS",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_N_HS.T_FAB_BigCryStalV01_N_HS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

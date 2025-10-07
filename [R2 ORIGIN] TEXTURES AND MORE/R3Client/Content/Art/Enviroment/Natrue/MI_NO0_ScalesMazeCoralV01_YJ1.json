@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_ScalesMazeCoralV01_D_YJ.T_NO0_ScalesMazeCoralV01_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_ScalesMazeCoralV01_D_YJ.T_NO0_ScalesMazeCoralV01_D_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.233634,
+        "G": 0.536458,
+        "B": 0.189996,
+        "A": 0.0,
+        "Hex": "85C279"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness_Mobile": 2.7,
+      "Diffuse_Contrast_Mobile": 1.4,
+      "Diffuse_Saturation_Mobile": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

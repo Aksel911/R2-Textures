@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_PumpkinV01_D_SM.T_PumpkinV01_D_SM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_PumpkinV01_D_SM.T_PumpkinV01_D_SM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_PumpkinV01_N_SM.T_PumpkinV01_N_SM",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_PumpkinV01_N_SM.T_PumpkinV01_N_SM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.427083,
+        "G": 0.427083,
+        "B": 0.427083,
+        "A": 0.0,
+        "Hex": "AFAFAF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.744,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

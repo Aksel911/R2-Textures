@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_CobwebV01_D_YJ_D.T_CA0_CobwebV01_D_YJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_CobwebV01_D_YJ_D.T_CA0_CobwebV01_D_YJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_CA0_CobwebV01_D_YJ_N.T_CA0_CobwebV01_D_YJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_CA0_CobwebV01_D_YJ_N.T_CA0_CobwebV01_D_YJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.348958,
+        "G": 0.304625,
+        "B": 0.26104,
+        "A": 1.0,
+        "Hex": "A0968C"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.2,
+      "Normal_Strength": -0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

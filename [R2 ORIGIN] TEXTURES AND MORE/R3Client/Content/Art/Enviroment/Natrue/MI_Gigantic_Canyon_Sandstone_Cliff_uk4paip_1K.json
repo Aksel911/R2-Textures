@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_D.T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_D.T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_N.T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_N.T_Gigantic_Canyon_Sandstone_Cliff_uk4paip_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 1.0,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU1_TravelHomeV02_06_D_VD.T_DU1_TravelHomeV02_06_D_VD",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU1_TravelHomeV02_06_D_VD.T_DU1_TravelHomeV02_06_D_VD",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DU1_TravelHomeV02_06_N_VD.T_DU1_TravelHomeV02_06_N_VD",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DU1_TravelHomeV02_06_N_VD.T_DU1_TravelHomeV02_06_N_VD"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.896,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_GrassV61_D_YJ.T_CA0_GrassV61_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_GrassV61_D_YJ.T_CA0_GrassV61_D_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.842667,
+        "G": 1.0,
+        "B": 0.528,
+        "A": 0.0,
+        "Hex": "EDFFC0"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.168,
+      "Diffuse_Saturation": 0.392,
+      "Roughness": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_D_KJ.T_ByronWaspV01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_D_KJ.T_ByronWaspV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_N_KJ.T_ByronWaspV01_N_KJ",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_N_KJ.T_ByronWaspV01_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_ORM_KJ.T_ByronWaspV01_ORM_KJ",
+    "ORM": "/Game/Art/Enviroment/Natrue/T_ByronWaspV01_ORM_KJ.T_ByronWaspV01_ORM_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Strength": 2.0,
+      "AO_Contrast": 0.3,
+      "Metallic_Contrast": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

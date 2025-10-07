@@ -1,0 +1,52 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_D_SSM.T_DJ02_ACC_Capillary_V01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_D_SSM.T_DJ02_ACC_Capillary_V01_D_SSM",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_E_SSM.T_DJ02_ACC_Capillary_V01_E_SSM",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_E_SSM.T_DJ02_ACC_Capillary_V01_E_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_N_FL.T_DJ02_ACC_Capillary_V01_N_FL",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DJ02_ACC_Capillary_V01_N_FL.T_DJ02_ACC_Capillary_V01_N_FL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.848958,
+        "G": 0.578983,
+        "B": 0.841725,
+        "A": 0.0,
+        "Hex": "EEC9ED"
+      },
+      "Emissive_Color": {
+        "R": 0.694767,
+        "G": 0.59069,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "D9CAFF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Normal_Strength": 1.0,
+      "Metallic": 0.1,
+      "Roughness": 0.7,
+      "Emissive_Brightness": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

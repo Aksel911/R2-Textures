@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_BC.T_beech_bark_01_BC",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_BC.T_beech_bark_01_BC",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_N.T_beech_bark_01_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_N.T_beech_bark_01_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_MT_R_AO.T_beech_bark_01_MT_R_AO",
+    "ORM": "/Game/Art/Enviroment/Natrue/T_beech_bark_01_MT_R_AO.T_beech_bark_01_MT_R_AO"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.851752,
+        "B": 0.625,
+        "A": 1.0,
+        "Hex": "FFEECF"
+      }
+    },
+    "Scalars": {
+      "AO_Contrast": 0.0,
+      "Roughness_Contrast": 0.584,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

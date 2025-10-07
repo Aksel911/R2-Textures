@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CoastalCliffV03_D_SYJ.T_CoastalCliffV03_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CoastalCliffV03_D_SYJ.T_CoastalCliffV03_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_CoastalCliffV03_N_SYJ.T_CoastalCliffV03_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_CoastalCliffV03_N_SYJ.T_CoastalCliffV03_N_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.6,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

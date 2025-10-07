@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_PlantsA_atlas_D_EH.T_BDF_PlantsA_atlas_D_EH",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_PlantsA_atlas_D_EH.T_BDF_PlantsA_atlas_D_EH"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.588542,
+        "G": 0.494937,
+        "B": 0.346381,
+        "A": 1.0,
+        "Hex": "CABB9F"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.35,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

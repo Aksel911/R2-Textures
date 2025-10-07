@@ -1,0 +1,61 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_DesertRockV31C_JW_D.T_NO0_DesertRockV31C_JW_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_MossMask_N.T_MossMask_N",
+    "Base_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Detail_Normal": "/Game/Art/Enviroment/Natrue/T_MossMask_N.T_MossMask_N",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M",
+    "T_Agelsjon_Rock_1_M": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.706,
+        "G": 0.292168,
+        "B": 0.02574,
+        "A": 0.0,
+        "Hex": "DB932C"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.932292,
+        "G": 0.925313,
+        "B": 0.908013,
+        "A": 1.0,
+        "Hex": "F8F7F5"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.6,
+      "Base_Diffuse_Saturation": 0.5,
+      "Base_Normal_Intensity": 1.0,
+      "Base_Normal_UVTiling": 1.0,
+      "Detail_Diffuse_Brightness": 1.0,
+      "Detail_Diffuse_Saturation": 1.0,
+      "Detail_Normal_Intensity": 1.0,
+      "Detail_Normal_UVTiling": 5.0,
+      "AlphaOffset": -0.3,
+      "Blend_edge_thickness": 1.0,
+      "CrackMask1": 0.0,
+      "CrackMask2": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

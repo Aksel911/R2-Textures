@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Dry_Fallen_Leaves_verqcbxaw_1K_D_SH.T_Dry_Fallen_Leaves_verqcbxaw_1K_D_SH",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Dry_Fallen_Leaves_verqcbxaw_1K_D_SH.T_Dry_Fallen_Leaves_verqcbxaw_1K_D_SH",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_vmhifen_1K_N.T_Sandstone_Rocky_Ground_vmhifen_1K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Sandstone_Rocky_Ground_vmhifen_1K_N.T_Sandstone_Rocky_Ground_vmhifen_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 0.728,
+      "Diffuse_Saturation": 0.368,
+      "Metallic": 0.1,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

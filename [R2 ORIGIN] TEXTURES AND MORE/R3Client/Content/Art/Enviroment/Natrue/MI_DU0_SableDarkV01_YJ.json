@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Salt_Desert_V03_a_JS.T_Salt_Desert_V03_a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_SableDarkV01_D_YK.T_DU0_SableDarkV01_D_YK",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Salt_Desert_V03_a_N_JS.T_Salt_Desert_V03_a_N_JS",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_DU0_SableDarkV01_N_YK.T_DU0_SableDarkV01_N_YK",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Salt_Desert_V03_a_JS.T_Salt_Desert_V03_a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Salt_Desert_V03_a_N_JS.T_Salt_Desert_V03_a_N_JS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.583333,
+        "G": 0.532417,
+        "B": 0.501302,
+        "A": 0.0,
+        "Hex": "C9C1BC"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.909262,
+        "B": 0.812501,
+        "A": 1.0,
+        "Hex": "FFF5E9"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_UVTiling": 3.0,
+      "Base_Normal_UVTiling": 3.0,
+      "Detail_Normal_UVTiling": 3.0,
+      "AlphaOffset": -0.630897,
+      "Blend_edge_thickness": 2.730139,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

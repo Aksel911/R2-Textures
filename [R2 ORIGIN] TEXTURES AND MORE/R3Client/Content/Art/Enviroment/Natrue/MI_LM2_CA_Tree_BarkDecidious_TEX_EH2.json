@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_D_GW.T_NO0_TreecultureV01_D_GW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_D_GW.T_NO0_TreecultureV01_D_GW",
+    "PM_Emissive": "/Game/Art/Effects/02_Texture/Light/FX_T_LightBeam_01_U.FX_T_LightBeam_01_U",
+    "Emissive_Mask": "/Game/Art/Effects/02_Texture/Light/FX_T_LightBeam_01_U.FX_T_LightBeam_01_U"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.952002,
+        "B": 0.510417,
+        "A": 1.0,
+        "Hex": "FFFABD"
+      },
+      "Emissive_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.5,
+      "Diffuse_Saturation": 1.0,
+      "UVTiling": 6.0,
+      "Emissive_Frequency": 0.25,
+      "Emissive_Intensity": 7.4417,
+      "Emissive_Min": 0.2,
+      "Wind_Branch_Intensity": 0.0,
+      "Wind_Branch_Speed": 0.0,
+      "Wind_Direction": 0.0,
+      "Wind_Leaves_Intensity": 0.0,
+      "Wind_Speed": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

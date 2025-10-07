@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "Noise texture": "/Game/Art/Effects/02_Texture/Smoke/FX_T_DiffClouds_01.FX_T_DiffClouds_01",
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Smoke/FX_T_DiffClouds_01.FX_T_DiffClouds_01",
+    "FX_T_DiffClouds_01": "/Game/Art/Effects/02_Texture/Smoke/FX_T_DiffClouds_01.FX_T_DiffClouds_01"
+  },
+  "Parameters": {
+    "BlendMode": 3,
+    "ShadingModel": 0,
+    "Colors": {
+      "color": {
+        "R": 0.301254,
+        "G": 0.332711,
+        "B": 0.427083,
+        "A": 0.0,
+        "Hex": "959CAF"
+      }
+    },
+    "Scalars": {
+      "camera depthfade amount": 10000.0,
+      "depthfade": 500.0,
+      "edgefeather": 2.0,
+      "emissive": 10.0,
+      "pannerspeed": 2.0,
+      "speed x": 0.01,
+      "speed y": 0.01,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

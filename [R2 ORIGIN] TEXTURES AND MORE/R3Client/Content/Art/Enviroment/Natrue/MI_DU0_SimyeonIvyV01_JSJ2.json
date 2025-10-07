@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_SimyeonIvyV01_D_HJ.T_DU0_SimyeonIvyV01_D_HJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_SimyeonIvyV01_D_HJ.T_DU0_SimyeonIvyV01_D_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.59,
+        "G": 0.564436,
+        "B": 0.42421,
+        "A": 0.0,
+        "Hex": "CAC6AE"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.2,
+      "Diffuse_Saturation": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

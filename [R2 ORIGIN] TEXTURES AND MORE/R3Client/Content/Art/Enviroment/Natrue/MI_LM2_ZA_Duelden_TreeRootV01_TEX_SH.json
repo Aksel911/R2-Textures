@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Mossy_Forest_Floor_vfylbge_1K_D2.T_Mossy_Forest_Floor_vfylbge_1K_D2",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_D_KJ.T_HunterHouseV01a_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Mossy_Forest_Floor_vfylbge_1K_N.T_Mossy_Forest_Floor_vfylbge_1K_N",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_N_KJ.T_HunterHouseV01a_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Mossy_Forest_Floor_vfylbge_1K_D2.T_Mossy_Forest_Floor_vfylbge_1K_D2",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Mossy_Forest_Floor_vfylbge_1K_N.T_Mossy_Forest_Floor_vfylbge_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.737255,
+        "G": 0.678431,
+        "B": 0.584314,
+        "A": 1.0,
+        "Hex": "DFD7C9"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.229167,
+        "G": 0.137619,
+        "B": 0.059393,
+        "A": 1.0,
+        "Hex": "846845"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 0.6,
+      "Base_Diffuse_Saturation": 0.66,
+      "Base_Diffuse_UVTiling": 1.0,
+      "Base_Normal_UVTiling": 1.0,
+      "Detail_Diffuse_Brightness": 1.2,
+      "Detail_Diffuse_Saturation": 0.508,
+      "Detail_Diffuse_UVTiling": 0.3,
+      "AlphaOffset": 0.46,
+      "Blend_edge_thickness": 1.354151,
+      "CrackMask1": 1.0,
+      "CrackMask2": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

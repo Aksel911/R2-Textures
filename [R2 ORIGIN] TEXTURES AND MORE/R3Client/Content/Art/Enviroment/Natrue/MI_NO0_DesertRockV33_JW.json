@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_DesertRockV33_D_JW.T_NO0_DesertRockV33_D_JW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_DesertRockV33_D_JW.T_NO0_DesertRockV33_D_JW",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO0_DesertRockV33_N_JW.T_NO0_DesertRockV33_N_JW",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_NO0_DesertRockV33_N_JW.T_NO0_DesertRockV33_N_JW"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

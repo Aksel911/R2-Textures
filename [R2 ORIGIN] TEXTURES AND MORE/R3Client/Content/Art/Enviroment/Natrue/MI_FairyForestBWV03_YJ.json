@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_d.T_BL_Elven_Branch_a_01_d",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_D_KJ.T_HunterHouseV01a_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_n.T_BL_Elven_Branch_a_01_n",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_N_KJ.T_HunterHouseV01a_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_d.T_BL_Elven_Branch_a_01_d",
+    "Detail_Normal": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_n.T_BL_Elven_Branch_a_01_n"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.947917,
+        "G": 0.569241,
+        "B": 0.245671,
+        "A": 1.0,
+        "Hex": "FAC788"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 0.456,
+      "Base_Diffuse_Saturation": 0.4,
+      "Base_Diffuse_UVTiling": 1.0,
+      "Base_Normal_Intensity": 2.0,
+      "Base_Normal_UVTiling": 1.0,
+      "Detail_Diffuse_Brightness": 0.5,
+      "Detail_Diffuse_Saturation": 0.9,
+      "Detail_Diffuse_UVTiling": 2.192363,
+      "Detail_Normal_Intensity": 1.0,
+      "AlphaOffset": 0.46,
+      "Blend_edge_thickness": 1.354151,
+      "CrackMask1": 1.0,
+      "CrackMask2": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

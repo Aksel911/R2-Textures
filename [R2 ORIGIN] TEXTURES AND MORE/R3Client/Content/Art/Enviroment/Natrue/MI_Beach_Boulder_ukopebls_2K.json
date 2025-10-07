@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/RockSmooth0130_1_L.RockSmooth0130_1_L",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/RockSmooth0130_1_L.RockSmooth0130_1_L",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Beach_Boulder_ukopebls_2K_N.T_Beach_Boulder_ukopebls_2K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Beach_Boulder_ukopebls_2K_N.T_Beach_Boulder_ukopebls_2K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.177083,
+        "G": 0.131433,
+        "B": 0.069635,
+        "A": 0.0,
+        "Hex": "75654A"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Metallic": 0.2,
+      "Roughness": 0.8936,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

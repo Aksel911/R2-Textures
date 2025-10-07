@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_TEX_SP.T_LM2_ZA_Duelden_BigTreeAV01_TEX_SP",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_TEX_SP.T_LM2_ZA_Duelden_BigTreeAV01_TEX_SP",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_N_TEX_SP.T_LM2_ZA_Duelden_BigTreeAV01_N_TEX_SP",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_LM2_ZA_Duelden_BigTreeAV01_N_TEX_SP.T_LM2_ZA_Duelden_BigTreeAV01_N_TEX_SP"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.770833,
+        "G": 0.681061,
+        "B": 0.696479,
+        "A": 0.0,
+        "Hex": "E4D8DA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.264,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

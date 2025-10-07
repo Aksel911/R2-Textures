@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_Grass_MossV02_MJ_D.T_DU0_Grass_MossV02_MJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_Grass_MossV02_MJ_D.T_DU0_Grass_MossV02_MJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DU0_Grass_MossV02_MJ_N.T_DU0_Grass_MossV02_MJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DU0_Grass_MossV02_MJ_N.T_DU0_Grass_MossV02_MJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.438778,
+        "G": 0.505208,
+        "B": 0.352231,
+        "A": 0.0,
+        "Hex": "B1BDA0"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 0.5,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

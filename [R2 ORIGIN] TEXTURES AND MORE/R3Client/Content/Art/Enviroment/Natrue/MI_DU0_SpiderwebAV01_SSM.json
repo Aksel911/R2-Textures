@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_SpiderwebAV01_D_SSM.T_DU0_SpiderwebAV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_SpiderwebAV01_D_SSM.T_DU0_SpiderwebAV01_D_SSM",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_DU0_SpiderwebAV01_E_YJ.T_DU0_SpiderwebAV01_E_YJ",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_DU0_SpiderwebAV01_E_YJ.T_DU0_SpiderwebAV01_E_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.541667,
+        "G": 0.472882,
+        "B": 0.378038,
+        "A": 1.0,
+        "Hex": "C3B7A5"
+      },
+      "Emissive_Color": {
+        "R": 0.661458,
+        "G": 0.661458,
+        "B": 0.661458,
+        "A": 1.0,
+        "Hex": "D5D5D5"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.1,
+      "Emissive_Brightness": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

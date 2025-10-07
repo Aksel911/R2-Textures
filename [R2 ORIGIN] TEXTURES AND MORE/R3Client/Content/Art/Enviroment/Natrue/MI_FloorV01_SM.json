@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_RoadV01_D_SM.T_RoadV01_D_SM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_RoadV01_D_SM.T_RoadV01_D_SM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Brick_GroundV01_N_SM.T_Brick_GroundV01_N_SM",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Brick_GroundV01_N_SM.T_Brick_GroundV01_N_SM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.588542,
+        "G": 0.588542,
+        "B": 0.588542,
+        "A": 0.0,
+        "Hex": "CACACA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.564,
+      "Diffuse_Saturation": 0.652,
+      "Normal_Strength": 2.0,
+      "Roughness": 0.664,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

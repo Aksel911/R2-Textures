@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_CA_Evilcave_StoneA_D_SYJ.T_LM2_CA_Evilcave_StoneA_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_LM2_CA_Evilcave_StoneA_D_SYJ.T_LM2_CA_Evilcave_StoneA_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_LM2_CA_Evilcave_StoneA_N_SYJ.T_LM2_CA_Evilcave_StoneA_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_LM2_CA_Evilcave_StoneA_N_SYJ.T_LM2_CA_Evilcave_StoneA_N_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.789709,
+        "G": 0.796875,
+        "B": 0.733658,
+        "A": 1.0,
+        "Hex": "E6E7DF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.5,
+      "Diffuse_Contrast": 0.84,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

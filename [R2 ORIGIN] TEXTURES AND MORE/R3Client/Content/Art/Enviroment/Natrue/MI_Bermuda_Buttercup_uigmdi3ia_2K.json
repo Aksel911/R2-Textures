@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Bermuda_Buttercup_uigmdi3ia2_2K_D.T_Bermuda_Buttercup_uigmdi3ia2_2K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Bermuda_Buttercup_uigmdi3ia2_2K_D.T_Bermuda_Buttercup_uigmdi3ia2_2K_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.338542,
+        "G": 0.338542,
+        "B": 0.338542,
+        "A": 0.0,
+        "Hex": "9D9D9D"
+      }
+    },
+    "Scalars": {
+      "Wind_Branch_Intensity": 2.0,
+      "Wind_Leaves_Intensity": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_LV0_FireRockV03_D_EH.T_LV0_FireRockV03_D_EH",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/sbnkqgp_Mask.sbnkqgp_Mask",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_LV0_FireRockV03_N_HS.T_LV0_FireRockV03_N_HS",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/sbnkqgp_Mask.sbnkqgp_Mask"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.557292,
+        "G": 0.552725,
+        "B": 0.412164,
+        "A": 1.0,
+        "Hex": "C5C4AC"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.651042,
+        "G": 0.650004,
+        "B": 0.517286,
+        "A": 1.0,
+        "Hex": "D3D3BF"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.16,
+      "Detail_Diffuse_Brightness": 1.0,
+      "Detail_Diffuse_Saturation": 1.0,
+      "Detail_Diffuse_UVTiling": 4.0,
+      "Blend_edge_thickness": 6.056831,
+      "Mask_Strength": 0.0,
+      "Vert Mask Max": -0.276,
+      "Vert Mask Min": -1.174982,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

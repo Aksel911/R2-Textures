@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CStalactiteV01_D_KJ.T_CStalactiteV01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CStalactiteV01_D_KJ.T_CStalactiteV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_CStalactiteV01_N_KJ.T_CStalactiteV01_N_KJ",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_CStalactiteV01_N_KJ.T_CStalactiteV01_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.875,
+        "G": 0.647307,
+        "B": 0.528646,
+        "A": 0.0,
+        "Hex": "F1D3C1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "Normal_Strength": 2.5,
+      "UVTiling": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Wild_Grass_vdilbaiia_2K_D.T_Wild_Grass_vdilbaiia_2K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Wild_Grass_vdilbaiia_2K_D.T_Wild_Grass_vdilbaiia_2K_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.744792,
+        "G": 0.466346,
+        "B": 0.322555,
+        "A": 0.0,
+        "Hex": "E0B69A"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

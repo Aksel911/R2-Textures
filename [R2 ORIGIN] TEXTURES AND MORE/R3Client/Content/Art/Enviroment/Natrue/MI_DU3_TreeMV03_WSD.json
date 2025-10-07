@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_TreeMV03_HJ_D.T_DU3_TreeMV03_HJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_TreeMV03_HJ_D.T_DU3_TreeMV03_HJ_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.65,
+      "Diffuse_Brightness_Mobile": 1.0,
+      "Diffuse_Contrast_Mobile": 1.0,
+      "Diffuse_Saturation_Mobile": 0.8,
+      "Specular": 0.01,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

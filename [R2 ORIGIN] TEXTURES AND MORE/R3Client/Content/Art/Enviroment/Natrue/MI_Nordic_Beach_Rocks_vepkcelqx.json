@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Nordic_Beach_Rocks_D_SSM.T_Nordic_Beach_Rocks_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Nordic_Beach_Rocks_D_SSM.T_Nordic_Beach_Rocks_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Nordic_Beach_Rocks_vepkcelqx_1K_N.T_Nordic_Beach_Rocks_vepkcelqx_1K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Nordic_Beach_Rocks_vepkcelqx_1K_N.T_Nordic_Beach_Rocks_vepkcelqx_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.5625,
+        "G": 0.54084,
+        "B": 0.412427,
+        "A": 1.0,
+        "Hex": "C6C2AC"
+      }
+    },
+    "Scalars": {
+      "Metallic": 0.0,
+      "Roughness": 0.792,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

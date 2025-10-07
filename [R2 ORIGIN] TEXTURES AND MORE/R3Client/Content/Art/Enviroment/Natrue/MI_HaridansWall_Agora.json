@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/RockSmooth0076_1_L.RockSmooth0076_1_L",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M",
+    "T_Agelsjon_Rock_1_M": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Detail_Diffuse_Color": {
+        "R": 0.703125,
+        "G": 0.619697,
+        "B": 0.461426,
+        "A": 1.0,
+        "Hex": "DBCFB5"
+      }
+    },
+    "Scalars": {
+      "Detail_Diffuse_Saturation": 0.8,
+      "Blend_edge_thickness": 3.5,
+      "CrackMask1": 1.0,
+      "CrackMask2": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

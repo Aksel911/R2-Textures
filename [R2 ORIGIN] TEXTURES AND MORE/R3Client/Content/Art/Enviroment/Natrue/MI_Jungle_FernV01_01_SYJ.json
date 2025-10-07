@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Jungle_Fern_D.T_Jungle_Fern_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Jungle_Fern_D.T_Jungle_Fern_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Jungle_Fern_N.T_Jungle_Fern_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Jungle_Fern_N.T_Jungle_Fern_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Specular": 0.5,
+      "Roughness": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

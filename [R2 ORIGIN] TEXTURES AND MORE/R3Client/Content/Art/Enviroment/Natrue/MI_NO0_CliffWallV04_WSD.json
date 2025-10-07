@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV04_D_KHS.T_NO0_CliffWallV04_D_KHS",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV04_D_KHS.T_NO0_CliffWallV04_D_KHS",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV04_N_KHS.T_NO0_CliffWallV04_N_KHS",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV04_N_KHS.T_NO0_CliffWallV04_N_KHS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.848958,
+        "G": 0.757945,
+        "B": 0.678854,
+        "A": 0.0,
+        "Hex": "EEE2D7"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "Magma": "/Game/Art/Enviroment/Ground/Tx_Dunheon_MagmaV02_D_CM.Tx_Dunheon_MagmaV02_D_CM",
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/Tx_Dunheon_MagmaV02_D_CM.Tx_Dunheon_MagmaV02_D_CM",
+    "Tx_Dunheon_MagmaV02_D_CM": "/Game/Art/Enviroment/Ground/Tx_Dunheon_MagmaV02_D_CM.Tx_Dunheon_MagmaV02_D_CM",
+    "Mask": "/Game/Art/Effects/02_Texture/Smoke/FX_T_Clouds_04.FX_T_Clouds_04",
+    "FX_T_Clouds_04": "/Game/Art/Effects/02_Texture/Smoke/FX_T_Clouds_04.FX_T_Clouds_04"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Emissive_Strength": 10.0,
+      "Magma1_UV_Tiling": 4.0,
+      "Magma1_Speed_X": 0.005,
+      "Magma1_Speed_Y": 0.005,
+      "Magma1_Strength": 1.0,
+      "Magma1_UV_Tiling_X": 10.0,
+      "Magma1_UV_Tiling_Y": 10.0,
+      "Magma2_Speed_X": 0.006,
+      "Magma2_Speed_Y": 0.006,
+      "Magma2_Strength": 1.0,
+      "Magma2_UV_Tiling": 22.0,
+      "Magma2_UV_Tiling_X": 5.0,
+      "Magma2_UV_Tiling_Y": 5.0,
+      "Mask_Power": 0.4,
+      "Mask_Strength": 1.0,
+      "Mask_Speed_X": 0.002,
+      "Mask_Speed_Y": 0.01,
+      "Mask_UV_Tiling": 22.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

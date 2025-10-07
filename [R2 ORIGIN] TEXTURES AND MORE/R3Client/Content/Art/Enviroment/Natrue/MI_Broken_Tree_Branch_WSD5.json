@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_D.T_EV0_TreeV31a_JW_Trunk_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_N.T_EV0_TreeV31a_JW_Trunk_N",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_N.T_EV0_TreeV31a_JW_Trunk_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Detail_Normal": "/Game/Art/Enviroment/Natrue/T_EV0_TreeV31a_JW_Trunk_N.T_EV0_TreeV31a_JW_Trunk_N",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M",
+    "T_Agelsjon_Rock_1_M": "/Game/Art/Enviroment/Natrue/T_Agelsjon_Rock_1_M.T_Agelsjon_Rock_1_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.589437,
+        "G": 0.62,
+        "B": 0.2697,
+        "A": 1.0,
+        "Hex": "CACF8E"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.89963,
+        "B": 0.578125,
+        "A": 1.0,
+        "Hex": "FFF4C8"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Saturation": 0.8,
+      "Base_Diffuse_UVTiling": 2.0,
+      "Base_Normal_Intensity": 2.0,
+      "Base_Normal_UVTiling": 2.0,
+      "Detail_Normal_Intensity": 2.0,
+      "Detail_Normal_UVTiling": 2.0,
+      "AlphaOffset": 0.1,
+      "Blend_edge_thickness": 0.599836,
+      "CrackMask1": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU2_StrawV01_MJ_D.T_DU2_StrawV01_MJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU2_StrawV01_MJ_D.T_DU2_StrawV01_MJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DU2_StrawV01_MJ_N.T_DU2_StrawV01_MJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DU2_StrawV01_MJ_N.T_DU2_StrawV01_MJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.797408,
+        "B": 0.716636,
+        "A": 0.0,
+        "Hex": "FFE7DC"
+      }
+    },
+    "Scalars": {
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

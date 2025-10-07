@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_01.FX_T_SeamlessReflact_01",
+    "Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_01.FX_T_SeamlessReflact_01",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_EV0_S2_Cliff_RockV02_N_HS.T_EV0_S2_Cliff_RockV02_N_HS",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_EV0_S2_Cliff_RockV02_N_HS.T_EV0_S2_Cliff_RockV02_N_HS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.126501,
+        "G": 0.152099,
+        "B": 0.25,
+        "A": 0.0,
+        "Hex": "646D89"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.4,
+      "Normal_Strength": 4.0,
+      "Metallic": 0.8,
+      "Roughness": 0.7,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

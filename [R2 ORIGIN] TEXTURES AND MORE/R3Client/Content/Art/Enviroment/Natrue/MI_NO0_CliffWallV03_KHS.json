@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/LT_Forest_Base_V01_YY.LT_Forest_Base_V01_YY",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV03_D_YJ.T_NO0_CliffWallV03_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV03_N_KHS.T_NO0_CliffWallV03_N_KHS",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_NO0_CliffWallV03_N_KHS.T_NO0_CliffWallV03_N_KHS",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/LT_Forest_Base_V01_YY.LT_Forest_Base_V01_YY",
+    "Mask": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M",
+    "Rockface_A_M": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Detail_Diffuse_UVTiling": 5.0,
+      "AlphaOffset": -0.354,
+      "Blend_edge_thickness": 3.0,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

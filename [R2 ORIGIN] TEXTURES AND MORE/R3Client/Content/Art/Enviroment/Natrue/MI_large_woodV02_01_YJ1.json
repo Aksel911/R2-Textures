@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Large_woodV02_01_D_HS.T_Large_woodV02_01_D_HS",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Large_woodV02_01_D_HS.T_Large_woodV02_01_D_HS",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_large_woodV02_01_N_HS.T_large_woodV02_01_N_HS",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_large_woodV02_01_N_HS.T_large_woodV02_01_N_HS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.333333,
+        "G": 0.297929,
+        "B": 0.210474,
+        "A": 0.0,
+        "Hex": "9C947F"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

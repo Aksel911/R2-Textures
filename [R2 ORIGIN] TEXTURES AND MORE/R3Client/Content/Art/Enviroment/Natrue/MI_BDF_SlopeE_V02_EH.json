@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_BurnedB_D_EH.T_BDF_BurnedB_D_EH",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_SlopeE_D_EH.T_BDF_SlopeE_D_EH",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BDF_BurnedB_N_EH.T_BDF_BurnedB_N_EH",
+    "Base_Normal": "/Game/Art/Enviroment/Natrue/T_BDF_SlopeE_N_EH.T_BDF_SlopeE_N_EH",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_BurnedB_D_EH.T_BDF_BurnedB_D_EH",
+    "Detail_Normal": "/Game/Art/Enviroment/Natrue/T_BDF_BurnedB_N_EH.T_BDF_BurnedB_N_EH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.572917,
+        "G": 0.458492,
+        "B": 0.283474,
+        "A": 1.0,
+        "Hex": "C8B591"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.463542,
+        "G": 0.394822,
+        "B": 0.289714,
+        "A": 1.0,
+        "Hex": "B5A993"
+      }
+    },
+    "Scalars": {
+      "AlphaOffset": 1.815709,
+      "Blend_edge_thickness": 1.614898,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

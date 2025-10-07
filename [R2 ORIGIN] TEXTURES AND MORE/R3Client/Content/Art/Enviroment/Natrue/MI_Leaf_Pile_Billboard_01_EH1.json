@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Leaf_Pile_Billboard_01_D.T_Leaf_Pile_Billboard_01_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Leaf_Pile_Billboard_01_D.T_Leaf_Pile_Billboard_01_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Leaf_Pile_Billboard_01_N.T_Leaf_Pile_Billboard_01_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Leaf_Pile_Billboard_01_N.T_Leaf_Pile_Billboard_01_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.322917,
+        "G": 0.227474,
+        "B": 0.174875,
+        "A": 0.0,
+        "Hex": "9A8374"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.4,
+      "Diffuse_Contrast": 0.35,
+      "Diffuse_Saturation": 0.7,
+      "Normal_Strength": 0.1,
+      "Specular": 0.408,
+      "Metallic": 0.032,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

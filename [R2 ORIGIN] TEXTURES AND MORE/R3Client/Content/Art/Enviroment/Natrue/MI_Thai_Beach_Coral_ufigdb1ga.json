@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Thai_Beach_Coral_ufigdb1ga_1K_D.T_Thai_Beach_Coral_ufigdb1ga_1K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Thai_Beach_Coral_ufigdb1ga_1K_D.T_Thai_Beach_Coral_ufigdb1ga_1K_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Thai_Beach_Coral_ufigdb1ga_1K_N.T_Thai_Beach_Coral_ufigdb1ga_1K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Thai_Beach_Coral_ufigdb1ga_1K_N.T_Thai_Beach_Coral_ufigdb1ga_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.578125,
+        "G": 0.472455,
+        "B": 0.45166,
+        "A": 1.0,
+        "Hex": "C8B7B3"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.241601,
+      "Diffuse_Saturation": 0.648,
+      "Metallic": 0.2,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

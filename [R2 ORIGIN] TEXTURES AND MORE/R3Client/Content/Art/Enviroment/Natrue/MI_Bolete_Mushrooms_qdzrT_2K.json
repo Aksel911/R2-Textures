@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Bolete_Mushrooms_qdzrT_2K_D.T_Bolete_Mushrooms_qdzrT_2K_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Bolete_Mushrooms_qdzrT_2K_D.T_Bolete_Mushrooms_qdzrT_2K_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Bolete_Mushrooms_qdzrT_2K_N.T_Bolete_Mushrooms_qdzrT_2K_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Bolete_Mushrooms_qdzrT_2K_N.T_Bolete_Mushrooms_qdzrT_2K_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Natrue/T_BoleteMushrooms_qdzrT_2K_DpR.T_BoleteMushrooms_qdzrT_2K_DpR",
+    "ORM": "/Game/Art/Enviroment/Natrue/T_BoleteMushrooms_qdzrT_2K_DpR.T_BoleteMushrooms_qdzrT_2K_DpR"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

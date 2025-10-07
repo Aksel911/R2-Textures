@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_D.T_NO3_StreamV01_JW_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_D.T_NO3_StreamV01_JW_D",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_E.T_NO3_StreamV01_JW_E",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_E.T_NO3_StreamV01_JW_E",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_N.T_NO3_StreamV01_JW_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_NO3_StreamV01_JW_N.T_NO3_StreamV01_JW_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.3,
+      "Roughness": 0.7,
+      "Emissive_Brightness": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Grass_Foliage_a_01_D.T_Grass_Foliage_a_01_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Grass_Foliage_a_01_D.T_Grass_Foliage_a_01_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.598958,
+        "G": 0.493161,
+        "B": 0.371229,
+        "A": 1.0,
+        "Hex": "CCBBA4"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.984,
+      "Diffuse_Saturation": 0.28,
+      "Diffuse_Brightness_Mobile": 1.2,
+      "Diffuse_Contrast_Mobile": 1.2,
+      "Diffuse_Saturation_Mobile": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

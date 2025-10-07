@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Burnt_Forest_Floor_V01_a_JS.T_Burnt_Forest_Floor_V01_a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_D_KJ.T_HunterHouseV01a_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Burnt_Forest_Floor_V01_a_N_JS.T_Burnt_Forest_Floor_V01_a_N_JS",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_N_KJ.T_HunterHouseV01a_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_ORM_KJ.T_HunterHouseV01a_ORM_KJ",
+    "Base_ORM": "/Game/Art/Enviroment/prop/T_HunterHouseV01a_ORM_KJ.T_HunterHouseV01a_ORM_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Burnt_Forest_Floor_V01_a_JS.T_Burnt_Forest_Floor_V01_a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Burnt_Forest_Floor_V01_a_N_JS.T_Burnt_Forest_Floor_V01_a_N_JS",
+    "Mask": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M",
+    "Rockface_A_M": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.463542,
+        "G": 0.376047,
+        "B": 0.258328,
+        "A": 1.0,
+        "Hex": "B5A58B"
+      }
+    },
+    "Scalars": {
+      "Base_AO_Contrast": 1.0,
+      "Base_Diffuse_Brightness": 0.15,
+      "Base_Diffuse_Saturation": 0.4,
+      "Base_Diffuse_UVTiling": 1.0,
+      "Base_Metallic_Brightness": 1.0,
+      "Base_Normal_Intensity": 3.0,
+      "Base_Normal_UVTiling": 1.0,
+      "Detail_Diffuse_UVTiling": 1.0,
+      "Detail_Normal_Intensity": 2.0,
+      "Detail_Normal_UVTiling": 5.0,
+      "AlphaOffset": 1.0,
+      "Blend_edge_thickness": 1.260469,
+      "Mask_Strength": 0.0,
+      "Pixel vs Vertex normal": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_01_D.T_Cave_Rock_01_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_01_D.T_Cave_Rock_01_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_Medium_N.T_Cave_Rock_Medium_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_Medium_N.T_Cave_Rock_Medium_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

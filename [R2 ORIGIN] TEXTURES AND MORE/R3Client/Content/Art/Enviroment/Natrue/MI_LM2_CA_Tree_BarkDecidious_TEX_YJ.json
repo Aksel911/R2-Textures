@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_D_GW.T_NO0_TreecultureV01_D_GW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_D_GW.T_NO0_TreecultureV01_D_GW",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_N_GW.T_NO0_TreecultureV01_N_GW",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_NO0_TreecultureV01_N_GW.T_NO0_TreecultureV01_N_GW"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.567708,
+        "G": 0.471919,
+        "B": 0.413954,
+        "A": 1.0,
+        "Hex": "C7B7AC"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.7,
+      "Roughness": 0.64,
+      "UVTiling": 6.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

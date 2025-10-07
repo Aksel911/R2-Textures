@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Arid_Gravel_GroundV02_02a_JS.T_Arid_Gravel_GroundV02_02a_JS",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Arid_Gravel_GroundV02_02a_JS.T_Arid_Gravel_GroundV02_02a_JS",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Arid_Gravel_GroundV02_02a_N_JS.T_Arid_Gravel_GroundV02_02a_N_JS",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Arid_Gravel_GroundV02_02a_N_JS.T_Arid_Gravel_GroundV02_02a_N_JS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.697917,
+        "G": 0.856798,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "DAEFFF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.65,
+      "Diffuse_Contrast": 1.2,
+      "Diffuse_Saturation": 1.0,
+      "Normal_Strength": 1.5,
+      "Roughness": 0.6,
+      "Opacity": 15.0,
+      "UVTiling": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

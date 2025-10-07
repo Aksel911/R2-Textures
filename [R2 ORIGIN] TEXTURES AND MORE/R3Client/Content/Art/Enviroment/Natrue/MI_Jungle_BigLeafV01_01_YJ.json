@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Jungle_BigLeaf_D.T_Jungle_BigLeaf_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Jungle_BigLeaf_D.T_Jungle_BigLeaf_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Jungle_BigLeaf_N.T_Jungle_BigLeaf_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Jungle_BigLeaf_N.T_Jungle_BigLeaf_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.333333,
+        "G": 0.188858,
+        "B": 0.031251,
+        "A": 1.0,
+        "Hex": "9C7831"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.6,
+      "Diffuse_Saturation": 1.0,
+      "Normal_Strength": 1.3,
+      "Specular": 1.0,
+      "Metallic": 0.45,
+      "MetallicSc_mobile": 0.45,
+      "Roughness": 0.6,
+      "RoughnessSc_mobile": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

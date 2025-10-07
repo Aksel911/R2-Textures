@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_beech_atlas_BC_V01_EH.T_beech_atlas_BC_V01_EH",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_beech_atlas_BC_V01_EH.T_beech_atlas_BC_V01_EH"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.698796,
+        "B": 0.587916,
+        "A": 1.0,
+        "Hex": "FFDACA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Saturation": 0.384,
+      "Metallic": 0.1,
+      "Wind_Branch_Intensity": 0.7,
+      "Wind_Branch_Speed": 0.1,
+      "Wind_Leaves_Intensity": 8.0,
+      "Wind_Speed": 1.5,
+      "WindIntensity_mobile": 0.7,
+      "WindSpeed_mobile": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

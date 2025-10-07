@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "Trunk Base Color": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_BC.T_beech_trunk_03_BC",
+    "T_beech_trunk_03_BC": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_BC.T_beech_trunk_03_BC",
+    "Trunk Blend": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_M.T_beech_trunk_03_M",
+    "T_beech_trunk_03_M": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_M.T_beech_trunk_03_M",
+    "Trunk MT_R_AO": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_MT_R_AO.T_beech_trunk_03_MT_R_AO",
+    "T_beech_trunk_03_MT_R_AO": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_MT_R_AO.T_beech_trunk_03_MT_R_AO",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_N.T_beech_trunk_03_N",
+    "Trunk Normalmap": "/Game/Art/Enviroment/Natrue/T_beech_trunk_03_N.T_beech_trunk_03_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BA_Tree_Dead_02_YJ_D.T_BA_Tree_Dead_02_YJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_BA_Tree_Dead_02_YJ_D.T_BA_Tree_Dead_02_YJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BA_Tree_Dead_02_YJ_N.T_BA_Tree_Dead_02_YJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_BA_Tree_Dead_02_YJ_N.T_BA_Tree_Dead_02_YJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "UVTiling": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

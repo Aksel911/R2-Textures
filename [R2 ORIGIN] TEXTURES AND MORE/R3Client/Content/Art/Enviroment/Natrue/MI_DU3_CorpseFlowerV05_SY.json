@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV05_D_SY.T_DU3_CorpseFlowerV05_D_SY",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV05_D_SY.T_DU3_CorpseFlowerV05_D_SY"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.8,
+      "Diffuse_Brightness_Mobile": 1.9,
+      "Diffuse_Contrast_Mobile": 1.3,
+      "Diffuse_Saturation_Mobile": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

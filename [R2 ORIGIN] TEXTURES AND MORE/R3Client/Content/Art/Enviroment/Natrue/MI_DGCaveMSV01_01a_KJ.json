@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DGCaveMSV01a_D.T_DGCaveMSV01a_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DGCaveMSV01a_D.T_DGCaveMSV01a_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DGCaveMSV01a_N.T_DGCaveMSV01a_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DGCaveMSV01a_N.T_DGCaveMSV01a_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.703125,
+        "G": 0.615234,
+        "B": 0.695345,
+        "A": 0.0,
+        "Hex": "DBCEDA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 3.0,
+      "Diffuse_Saturation": 0.448,
+      "Normal_Strength": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

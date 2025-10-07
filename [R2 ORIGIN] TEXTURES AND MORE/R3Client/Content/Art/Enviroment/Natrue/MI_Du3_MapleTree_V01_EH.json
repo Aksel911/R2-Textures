@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Du3_MapleTree_V01_D_MJ.T_Du3_MapleTree_V01_D_MJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Du3_MapleTree_V01_D_MJ.T_Du3_MapleTree_V01_D_MJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.387121,
+        "G": 0.484375,
+        "B": 0.358236,
+        "A": 1.0,
+        "Hex": "A7B9A2"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.7,
+      "Diffuse_Brightness_Mobile": 2.5,
+      "Specular": 0.0,
+      "Roughness": 1.0,
+      "Metallic": 0.3,
+      "Wind_Branch_Intensity": 0.7,
+      "Wind_Branch_Speed": 0.1,
+      "Wind_Speed": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

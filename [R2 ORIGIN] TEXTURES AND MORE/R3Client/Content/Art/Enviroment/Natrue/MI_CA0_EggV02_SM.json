@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_D.T_CA0_EggV01_D_JW_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_D.T_CA0_EggV01_D_JW_D",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_E.T_CA0_EggV01_D_JW_E",
+    "Emissive": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_E.T_CA0_EggV01_D_JW_E",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_N.T_CA0_EggV01_D_JW_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_CA0_EggV01_D_JW_N.T_CA0_EggV01_D_JW_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.3,
+      "Diffuse_Saturation": 0.7,
+      "Normal_Strength": 2.0,
+      "Metallic": 0.2,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

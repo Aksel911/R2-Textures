@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_OD0_FlowerV02_D_GW.T_OD0_FlowerV02_D_GW",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_OD0_FlowerV02_D_GW.T_OD0_FlowerV02_D_GW"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.444336,
+        "G": 0.46875,
+        "B": 0.453748,
+        "A": 0.0,
+        "Hex": "B2B6B4"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.52,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

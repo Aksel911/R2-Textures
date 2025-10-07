@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_CoverBranches_D_EH.T_BDF_CoverBranches_D_EH",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_CoverBranches_D_EH.T_BDF_CoverBranches_D_EH",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BDF_CoverBranches_N_EH.T_BDF_CoverBranches_N_EH",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_BDF_CoverBranches_N_EH.T_BDF_CoverBranches_N_EH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.800277,
+        "B": 0.494791,
+        "A": 1.0,
+        "Hex": "FFE8BB"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.472,
+      "Diffuse_Contrast": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

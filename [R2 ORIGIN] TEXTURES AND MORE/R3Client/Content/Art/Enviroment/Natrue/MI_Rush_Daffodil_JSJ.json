@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Rush_Daffodil_D.T_Rush_Daffodil_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Rush_Daffodil_D.T_Rush_Daffodil_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.2,
+        "G": 0.181015,
+        "B": 0.06,
+        "A": 0.0,
+        "Hex": "7C7645"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.3,
+      "Diffuse_Contrast": 1.0,
+      "Diffuse_Saturation": 1.3,
+      "Wind_Branch_Intensity": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

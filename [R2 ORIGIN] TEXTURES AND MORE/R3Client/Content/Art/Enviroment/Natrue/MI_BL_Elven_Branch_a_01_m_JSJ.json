@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_d.T_BL_Elven_Branch_a_01_d",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_MossMask_N.T_MossMask_N",
+    "Detail_Normal": "/Game/Art/Enviroment/Natrue/T_MossMask_N.T_MossMask_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.612,
+        "B": 0.630624,
+        "A": 1.0,
+        "Hex": "FFCED0"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.3,
+      "Base_Diffuse_Saturation": 0.848,
+      "Base_Diffuse_UVTiling": 2.0,
+      "Base_Normal_Intensity": 1.0,
+      "Base_Normal_UVTiling": 2.0,
+      "Detail_Diffuse_Brightness": 0.7,
+      "Detail_Diffuse_UVTiling": 1.0,
+      "Detail_Normal_Intensity": 3.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "AlphaOffset": -0.1,
+      "Blend_edge_thickness": 1.332553,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

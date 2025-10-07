@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_DebrisStumpB_D_EH.T_BDF_DebrisStumpB_D_EH",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_BDF_DebrisStumpB_D_EH.T_BDF_DebrisStumpB_D_EH",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BDF_DebrisStumpB_N_EH.T_BDF_DebrisStumpB_N_EH",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_BDF_DebrisStumpB_N_EH.T_BDF_DebrisStumpB_N_EH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_mapleTreeBarkA_D.T_mapleTreeBarkA_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_mapleTreeBarkA_D.T_mapleTreeBarkA_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_mapleTreeBarkA_N.T_mapleTreeBarkA_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_mapleTreeBarkA_N.T_mapleTreeBarkA_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.6,
+      "Diffuse_Contrast": 1.1,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

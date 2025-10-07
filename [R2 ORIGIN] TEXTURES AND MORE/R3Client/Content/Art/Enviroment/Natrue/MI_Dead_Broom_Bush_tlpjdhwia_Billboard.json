@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Dead_Broom_Bush_tlpjdhwia_Billboard_D.T_Dead_Broom_Bush_tlpjdhwia_Billboard_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Dead_Broom_Bush_tlpjdhwia_Billboard_D.T_Dead_Broom_Bush_tlpjdhwia_Billboard_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Wind_Leaves_Intensity": 0.0,
+      "Roughness": 1.0,
+      "Specular": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

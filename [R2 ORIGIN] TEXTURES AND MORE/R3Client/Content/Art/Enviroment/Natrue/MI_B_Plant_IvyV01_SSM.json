@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_B_Plant_IvyV01_D_SSM.T_B_Plant_IvyV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_B_Plant_IvyV01_D_SSM.T_B_Plant_IvyV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_B_Plant_IvyV01_N_SSM.T_B_Plant_IvyV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_B_Plant_IvyV01_N_SSM.T_B_Plant_IvyV01_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Rock_S_01_D.T_Rock_S_01_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_Rock_S_01_D.T_Rock_S_01_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.4375,
+        "G": 0.41704,
+        "B": 0.281617,
+        "A": 1.0,
+        "Hex": "B1AD91"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.7,
+      "Diffuse_Contrast": 0.592,
+      "Roughness": 0.948,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

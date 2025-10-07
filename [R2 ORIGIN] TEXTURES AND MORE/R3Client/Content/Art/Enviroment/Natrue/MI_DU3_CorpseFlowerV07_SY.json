@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV07_D_SY.T_DU3_CorpseFlowerV07_D_SY",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV07_D_SY.T_DU3_CorpseFlowerV07_D_SY",
+    "PM_Emissive": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV07_E_YJ.T_DU3_CorpseFlowerV07_E_YJ",
+    "Emissive_Mask": "/Game/Art/Enviroment/Natrue/T_DU3_CorpseFlowerV07_E_YJ.T_DU3_CorpseFlowerV07_E_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.535156,
+        "G": 0.713542,
+        "B": 0.68382,
+        "A": 1.0,
+        "Hex": "C2DCD8"
+      },
+      "Emissive_Color": {
+        "R": 0.248699,
+        "G": 0.788039,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "89E6FF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.2,
+      "Diffuse_Contrast": 0.8,
+      "Diffuse_Saturation": 0.688,
+      "Metallic": 0.1,
+      "Emissive_Frequency": 0.25,
+      "Emissive_Intensity": 1.2,
+      "Emissive_Min": 0.15,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

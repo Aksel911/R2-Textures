@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_01_SH.T_Cave_Rock_01_SH",
+    "Base_Diffuse": "/Game/Art/Enviroment/Natrue/T_StoneTileV01_a_D_SSM.T_StoneTileV01_a_D_SSM",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Natrue/T_Cave_Rock_01_SH.T_Cave_Rock_01_SH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.735892,
+        "B": 0.473958,
+        "A": 1.0,
+        "Hex": "FFDFB7"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.817708,
+        "G": 0.686011,
+        "B": 0.587728,
+        "A": 1.0,
+        "Hex": "EAD8CA"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.0,
+      "Detail_Diffuse_Brightness": 1.5,
+      "AlphaOffset": 21.072826,
+      "Blend_edge_thickness": 0.033719,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

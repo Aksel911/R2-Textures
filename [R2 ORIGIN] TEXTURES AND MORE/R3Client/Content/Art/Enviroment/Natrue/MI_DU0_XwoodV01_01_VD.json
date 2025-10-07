@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_XwoodV01_01_D_VD.T_DU0_XwoodV01_01_D_VD",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_DU0_XwoodV01_01_D_VD.T_DU0_XwoodV01_01_D_VD",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_DU0_XwoodV01_01_N_VD.T_DU0_XwoodV01_01_N_VD",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_DU0_XwoodV01_01_N_VD.T_DU0_XwoodV01_01_N_VD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.76,
+      "Metallic": 0.728,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

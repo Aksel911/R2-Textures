@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_NO1_ElfTreeV02_02_JSJ_D.T_NO1_ElfTreeV02_02_JSJ_D",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_NO1_ElfTreeV02_02_JSJ_D.T_NO1_ElfTreeV02_02_JSJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO1_ElfTreeV02_02_JSJ_N.T_NO1_ElfTreeV02_02_JSJ_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_NO1_ElfTreeV02_02_JSJ_N.T_NO1_ElfTreeV02_02_JSJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.625,
+        "G": 0.625,
+        "B": 0.625,
+        "A": 0.0,
+        "Hex": "CFCFCF"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

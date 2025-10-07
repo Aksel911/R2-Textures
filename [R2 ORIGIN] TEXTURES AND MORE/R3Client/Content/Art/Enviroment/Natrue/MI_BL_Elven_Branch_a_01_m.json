@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_d.T_BL_Elven_Branch_a_01_d",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_d.T_BL_Elven_Branch_a_01_d",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_n.T_BL_Elven_Branch_a_01_n",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_n.T_BL_Elven_Branch_a_01_n",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_s.T_BL_Elven_Branch_a_01_s",
+    "ORM": "/Game/Art/Enviroment/Natrue/T_BL_Elven_Branch_a_01_s.T_BL_Elven_Branch_a_01_s"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.908523,
+        "B": 0.53,
+        "A": 0.0,
+        "Hex": "FFF5C1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.7,
+      "AO_Contrast": 0.0,
+      "Roughness_Contrast": 0.56,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

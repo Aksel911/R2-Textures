@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_03.FX_T_SeamlessReflact_03",
+    "Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_03.FX_T_SeamlessReflact_03",
+    "PM_Emissive": "/Game/Art/Effects/02_Texture/Smoke/FX_T_SmokeTile_02.FX_T_SmokeTile_02",
+    "Emissive_Mask": "/Game/Art/Effects/02_Texture/Smoke/FX_T_SmokeTile_02.FX_T_SmokeTile_02"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "Emissive_Color": {
+        "R": 0.06505,
+        "G": 0.366957,
+        "B": 0.796875,
+        "A": 1.0,
+        "Hex": "48A3E7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.05,
+      "Diffuse_Contrast": 0.5,
+      "Diffuse_Saturation": 0.9,
+      "UVTiling": 1.4,
+      "Roughness": 0.5,
+      "Metallic": 0.5,
+      "Emissive_Frequency": 0.0,
+      "Emissive_Intensity": 40.0,
+      "Emissive_Min": 0.1,
+      "Wind_Branch_Intensity": 1.0,
+      "Wind_Branch_Speed": 0.2,
+      "Wind_Direction": 1.0,
+      "Wind_Leaves_Intensity": 20.0,
+      "Wind_Speed": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
