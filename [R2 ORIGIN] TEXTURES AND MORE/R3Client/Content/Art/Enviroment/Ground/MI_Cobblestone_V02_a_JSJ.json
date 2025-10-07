@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Cobblestone_V02_a_JS.T_Cobblestone_V02_a_JS",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Cobblestone_V02_a_JS.T_Cobblestone_V02_a_JS",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Cobblestone_V02_a_N_JS.T_Cobblestone_V02_a_N_JS",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Cobblestone_V02_a_N_JS.T_Cobblestone_V02_a_N_JS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.9,
+        "G": 0.87,
+        "B": 0.81,
+        "A": 1.0,
+        "Hex": "F4F0E9"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 1.5,
+      "Roughness": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

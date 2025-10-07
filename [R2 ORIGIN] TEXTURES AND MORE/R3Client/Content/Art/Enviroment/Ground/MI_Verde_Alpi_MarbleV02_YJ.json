@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Verde_Alpi_Marble_D.T_Verde_Alpi_Marble_D",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Verde_Alpi_Marble_D.T_Verde_Alpi_Marble_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Normal_nothing.T_Normal_nothing",
+    "Normal": "/Game/Art/Enviroment/prop/T_Normal_nothing.T_Normal_nothing",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Ground/T_GroundV10_ORM_WSD.T_GroundV10_ORM_WSD",
+    "ORM": "/Game/Art/Enviroment/Ground/T_GroundV10_ORM_WSD.T_GroundV10_ORM_WSD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.723055,
+        "G": 0.723055,
+        "B": 0.799103,
+        "A": 1.0,
+        "Hex": "DDDDE7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.3,
+      "Diffuse_Contrast": 0.7,
+      "Diffuse_Saturation": 0.2,
+      "Roughness_Brightness": 0.248,
+      "UVTiling": 0.15,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
