@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Priest_Temple01_WSD_D.T_Priest_Temple01_WSD_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Priest_Temple01_WSD_D.T_Priest_Temple01_WSD_D",
+    "PM_Normals": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal",
+    "Normal": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

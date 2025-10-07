@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LC1_Timber_BridgeV01_02_D_YJ.T_LC1_Timber_BridgeV01_02_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LC1_Timber_BridgeV01_02_D_YJ.T_LC1_Timber_BridgeV01_02_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LC1_Timber_BridgeV01_02_N.T_LC1_Timber_BridgeV01_02_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_LC1_Timber_BridgeV01_02_N.T_LC1_Timber_BridgeV01_02_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.46875,
+        "G": 0.405312,
+        "B": 0.321131,
+        "A": 0.0,
+        "Hex": "B6AB9A"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.712,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

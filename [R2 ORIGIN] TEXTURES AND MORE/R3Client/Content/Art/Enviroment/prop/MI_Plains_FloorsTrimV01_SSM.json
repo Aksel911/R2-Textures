@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrimV01_D_SSM.T_Plains_FloorsTrimV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrimV01_D_SSM.T_Plains_FloorsTrimV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrim_N_SSM.T_Plains_FloorsTrim_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrim_N_SSM.T_Plains_FloorsTrim_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrimV01_ORM_SSM.T_Plains_FloorsTrimV01_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrimV01_ORM_SSM.T_Plains_FloorsTrimV01_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.71568,
+        "G": 0.865219,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "DCF0FF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Normal_Strength": 2.0,
+      "Roughness_Contrast": 0.576,
+      "Metallic_Contrast": 0.72,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

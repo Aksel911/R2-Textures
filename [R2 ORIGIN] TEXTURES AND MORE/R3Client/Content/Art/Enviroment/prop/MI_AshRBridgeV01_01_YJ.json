@@ -1,0 +1,61 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_D_YJ.T_AshRBridgeV01_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_N_JS.T_Base_RoadV02_01a_N_JS",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_N_KJ.T_AshRBridgeV01_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_N_JS.T_Base_RoadV02_01a_N_JS",
+    "Mask": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_N_KJ.T_AshRBridgeV01_N_KJ",
+    "T_AshRBridgeV01_N_KJ": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_N_KJ.T_AshRBridgeV01_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.71875,
+        "G": 0.612135,
+        "B": 0.385579,
+        "A": 1.0,
+        "Hex": "DDCEA7"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.734375,
+        "G": 0.733204,
+        "B": 0.583498,
+        "A": 1.0,
+        "Hex": "DFDFC9"
+      }
+    },
+    "Scalars": {
+      "Base_Normal_Intensity": 2.0,
+      "Base_Roughness": 1.0,
+      "Detail_Diffuse_Brightness": 0.9,
+      "Detail_Diffuse_Saturation": 1.0,
+      "Detail_Diffuse_UVTiling": 1.2,
+      "Detail_Normal_Intensity": 1.0,
+      "Detail_Normal_UVTiling": 1.2,
+      "AlphaOffset": 0.12,
+      "Blend_edge_thickness": 1.0,
+      "CrackMask1": 0.1,
+      "CrackMask2": -0.6,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

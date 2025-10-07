@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Block_c_01_YSK.T_Ter_Block_c_01_YSK",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Block_c_01_YSK.T_Ter_Block_c_01_YSK",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Normal_nothing.T_Normal_nothing",
+    "Normal": "/Game/Art/Enviroment/prop/T_Normal_nothing.T_Normal_nothing"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.644,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

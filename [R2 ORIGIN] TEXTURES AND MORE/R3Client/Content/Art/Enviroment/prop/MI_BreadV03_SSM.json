@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BreadV03_D_SSM.T_BreadV03_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BreadV03_D_SSM.T_BreadV03_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BreadV03_N_SSM.T_BreadV03_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_BreadV03_N_SSM.T_BreadV03_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.5,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Dg_kings_tomb_floor_Tile_a_01.T_Dg_kings_tomb_floor_Tile_a_01",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Dg_kings_tomb_floor_Tile_a_01.T_Dg_kings_tomb_floor_Tile_a_01",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Dried_Grass_On_Soil_vbnldgvn_1K_N_SJ.T_Dried_Grass_On_Soil_vbnldgvn_1K_N_SJ",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Dried_Grass_On_Soil_vbnldgvn_1K_N_SJ.T_Dried_Grass_On_Soil_vbnldgvn_1K_N_SJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Ground/T_Dg_kings_tomb_floor_Tile_ORM_SSM.T_Dg_kings_tomb_floor_Tile_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/Ground/T_Dg_kings_tomb_floor_Tile_ORM_SSM.T_Dg_kings_tomb_floor_Tile_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.71568,
+        "G": 0.865219,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "DCF0FF"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 1.0,
+      "Roughness_Contrast": 0.664,
+      "Metallic_Contrast": 1.648,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

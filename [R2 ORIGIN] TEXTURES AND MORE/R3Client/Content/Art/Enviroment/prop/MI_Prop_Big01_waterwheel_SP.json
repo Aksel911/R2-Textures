@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Prop_Big01_waterwheel_D_TEX_SP.T_Prop_Big01_waterwheel_D_TEX_SP",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Prop_Big01_waterwheel_D_TEX_SP.T_Prop_Big01_waterwheel_D_TEX_SP"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

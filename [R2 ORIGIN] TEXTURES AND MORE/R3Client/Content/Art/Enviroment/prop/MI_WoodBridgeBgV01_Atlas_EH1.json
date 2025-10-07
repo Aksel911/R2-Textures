@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WoodBridgeBgV01_D_Atlas_SH.T_WoodBridgeBgV01_D_Atlas_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WoodBridgeBgV01_D_Atlas_SH.T_WoodBridgeBgV01_D_Atlas_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WoodBridgeBgV01_N_Atlas_SH.T_WoodBridgeBgV01_N_Atlas_SH",
+    "Normal": "/Game/Art/Enviroment/prop/T_WoodBridgeBgV01_N_Atlas_SH.T_WoodBridgeBgV01_N_Atlas_SH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.5,
+      "Diffuse_Saturation": 0.5,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

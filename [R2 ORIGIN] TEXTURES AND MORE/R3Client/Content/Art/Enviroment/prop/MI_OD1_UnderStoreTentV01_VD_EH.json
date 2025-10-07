@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DOM_FlagFabricV01_01_D_EH.T_DOM_FlagFabricV01_01_D_EH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DOM_FlagFabricV01_01_D_EH.T_DOM_FlagFabricV01_01_D_EH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DOM_FlagFabricV01_01_N_YH.T_DOM_FlagFabricV01_01_N_YH",
+    "Normal": "/Game/Art/Enviroment/prop/T_DOM_FlagFabricV01_01_N_YH.T_DOM_FlagFabricV01_01_N_YH"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Strength": 2.2,
+      "AO_Contrast": 0.0,
+      "Roughness_Brightness": 1.0,
+      "Roughness_Contrast": 0.432,
+      "Metallic_Brightness": 1.0,
+      "Metallic_Contrast": 0.312,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

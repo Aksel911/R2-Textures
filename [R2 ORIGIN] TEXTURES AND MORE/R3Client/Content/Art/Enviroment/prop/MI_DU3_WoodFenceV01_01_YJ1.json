@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU3_WoodFenceV01_02_D_YJ2.T_DU3_WoodFenceV01_02_D_YJ2",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU3_WoodFenceV01_02_D_YJ2.T_DU3_WoodFenceV01_02_D_YJ2",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU3_WoodFenceV01_N_YJ2.T_DU3_WoodFenceV01_N_YJ2",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU3_WoodFenceV01_N_YJ2.T_DU3_WoodFenceV01_N_YJ2"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Strength": 0.3,
+      "Roughness": 0.632,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

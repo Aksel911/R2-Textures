@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WarehouseV3_D_SYJ.T_WarehouseV3_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WarehouseV3_D_SYJ.T_WarehouseV3_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WarehouseV3_N_SYJ.T_WarehouseV3_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_WarehouseV3_N_SYJ.T_WarehouseV3_N_SYJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_WarehouseV3_ORM_SYJ.T_WarehouseV3_ORM_SYJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_WarehouseV3_ORM_SYJ.T_WarehouseV3_ORM_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.520833,
+        "G": 0.485269,
+        "B": 0.450304,
+        "A": 1.0,
+        "Hex": "BFB9B3"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Normal_Strength": 1.0,
+      "Roughness_Brightness": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

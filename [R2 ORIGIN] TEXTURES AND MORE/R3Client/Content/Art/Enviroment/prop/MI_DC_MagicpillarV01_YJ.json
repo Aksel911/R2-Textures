@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DC_MagicpillarV01_D_YHA.T_DC_MagicpillarV01_D_YHA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DC_MagicpillarV01_D_YHA.T_DC_MagicpillarV01_D_YHA",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DC_MagicpillarV01_N_YHA.T_DC_MagicpillarV01_N_YHA",
+    "Normal": "/Game/Art/Enviroment/prop/T_DC_MagicpillarV01_N_YHA.T_DC_MagicpillarV01_N_YHA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.848958,
+        "G": 0.829499,
+        "B": 0.723271,
+        "A": 0.0,
+        "Hex": "EEEBDD"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

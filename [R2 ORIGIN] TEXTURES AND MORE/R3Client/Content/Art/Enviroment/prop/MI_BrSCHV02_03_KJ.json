@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "CrystalShell": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "T_Ice_Noise": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "PM_Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_01.FX_T_SeamlessReflact_01",
+    "Diffuse": "/Game/Art/Effects/02_Texture/Light/FX_T_SeamlessReflact_01.FX_T_SeamlessReflact_01",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_BAN_CrystalV04_N_YJ.T_BAN_CrystalV04_N_YJ",
+    "Normal_Main": "/Game/Art/Enviroment/Natrue/T_BAN_CrystalV04_N_YJ.T_BAN_CrystalV04_N_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color_1": {
+        "R": 0.947917,
+        "G": 0.666504,
+        "B": 0.877563,
+        "A": 1.0,
+        "Hex": "FAD5F1"
+      },
+      "Color_2": {
+        "R": 0.817708,
+        "G": 0.327935,
+        "B": 0.439532,
+        "A": 1.0,
+        "Hex": "EA9BB1"
+      }
+    },
+    "Scalars": {
+      "CrystalShell_Amount": 0.05,
+      "CrystalShell_UV": 1.0,
+      "Diffuse_Strength": 3.0,
+      "Emissive_1_Strength": 2.0,
+      "Emissive_2_Strength": 2.0,
+      "HeightRatio": 0.6,
+      "Mask_Contrast": 1.0,
+      "Metallic": 0.4,
+      "Normal_Detail_Strength": 15.0,
+      "Normal_Detail_UV": 0.3,
+      "Normal_Main_Strength": 3.0,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Alhard_Desert_Fence_02_KB_D_Atlas_WSD.T_Alhard_Desert_Fence_02_KB_D_Atlas_WSD",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Alhard_Desert_Fence_02_KB_D_Atlas_WSD.T_Alhard_Desert_Fence_02_KB_D_Atlas_WSD",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Alhard_Desert_Fence_02_KB_N_Atlas_WSD.T_Alhard_Desert_Fence_02_KB_N_Atlas_WSD",
+    "Normal": "/Game/Art/Enviroment/prop/T_Alhard_Desert_Fence_02_KB_N_Atlas_WSD.T_Alhard_Desert_Fence_02_KB_N_Atlas_WSD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

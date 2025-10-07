@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LC1_SimpleShopsV01_13_HS_D.T_LC1_SimpleShopsV01_13_HS_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LC1_SimpleShopsV01_13_HS_D.T_LC1_SimpleShopsV01_13_HS_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LC1_SimpleShopsV01_13_HS_N.T_LC1_SimpleShopsV01_13_HS_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_LC1_SimpleShopsV01_13_HS_N.T_LC1_SimpleShopsV01_13_HS_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.776042,
+        "G": 0.776042,
+        "B": 0.776042,
+        "A": 0.0,
+        "Hex": "E4E4E4"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

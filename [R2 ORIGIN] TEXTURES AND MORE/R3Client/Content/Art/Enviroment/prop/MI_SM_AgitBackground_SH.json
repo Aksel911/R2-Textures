@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_AgitBackground_SH_BaseColor.T_AgitBackground_SH_BaseColor",
+    "BaseColorTexture": "/Game/Art/Enviroment/prop/T_AgitBackground_SH_BaseColor.T_AgitBackground_SH_BaseColor",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_AgitBackground_SH_Normal.T_AgitBackground_SH_Normal",
+    "NormalTexture": "/Game/Art/Enviroment/prop/T_AgitBackground_SH_Normal.T_AgitBackground_SH_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "MetallicConst": 0.0,
+      "RoughnessConst": 0.5,
+      "SpecularConst": 0.5,
+      "OpacityConst": 1.0,
+      "OpacityMaskConst": 1.0,
+      "AmbientOcclusionConst": 1.0
+    },
+    "Switches": {
+      "UseCustomUV": true,
+      "UseUV-1": true,
+      "UseBaseColor": true,
+      "UseNormal": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

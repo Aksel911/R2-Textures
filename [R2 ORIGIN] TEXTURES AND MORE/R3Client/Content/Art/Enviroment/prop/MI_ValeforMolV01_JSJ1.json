@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_ValeforMolV01_D_KJ.T_ValeforMolV01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_ValeforMolV01_D_KJ.T_ValeforMolV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ValeforMolV01_N_KJ.T_ValeforMolV01_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_ValeforMolV01_N_KJ.T_ValeforMolV01_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.61,
+        "G": 0.56764,
+        "B": 0.474909,
+        "A": 0.0,
+        "Hex": "CDC7B7"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.6048,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

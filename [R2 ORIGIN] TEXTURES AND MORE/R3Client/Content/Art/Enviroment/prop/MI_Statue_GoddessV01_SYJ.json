@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_D_SYJ.T_Statue_GoddessV01_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_D_SYJ.T_Statue_GoddessV01_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_N_SYJ.T_Statue_GoddessV01_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_N_SYJ.T_Statue_GoddessV01_N_SYJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_ORM_SYJ.T_Statue_GoddessV01_ORM_SYJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_Statue_GoddessV01_ORM_SYJ.T_Statue_GoddessV01_ORM_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.987973,
+        "B": 0.916667,
+        "A": 1.0,
+        "Hex": "FFFEF6"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "Diffuse_Saturation": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

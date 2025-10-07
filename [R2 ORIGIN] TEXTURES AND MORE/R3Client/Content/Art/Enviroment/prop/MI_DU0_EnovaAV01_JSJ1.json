@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_brick_04_D1.T_brick_04_D1",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_brick_04_D1.T_brick_04_D1",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_brick_04_N1.T_brick_04_N1",
+    "Normal": "/Game/Art/Enviroment/Ground/T_brick_04_N1.T_brick_04_N1"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.8,
+        "G": 0.8,
+        "B": 0.72,
+        "A": 0.0,
+        "Hex": "E8E8DD"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.9,
+      "Diffuse_Saturation": 0.85,
+      "Normal_Strength": 1.25,
+      "UVTiling": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

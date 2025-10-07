@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_GoldBlass_01_D.T_GoldBlass_01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_GoldBlass_01_D.T_GoldBlass_01_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_GoldBlass_01_N.T_GoldBlass_01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_GoldBlass_01_N.T_GoldBlass_01_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.576,
+      "Roughness": 0.296,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

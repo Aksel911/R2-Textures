@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_SimpleShops_TreeBoxV01_D.T_SimpleShops_TreeBoxV01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_SimpleShops_TreeBoxV01_D.T_SimpleShops_TreeBoxV01_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_SimpleShops_TreeBoxV01_N.T_SimpleShops_TreeBoxV01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_SimpleShops_TreeBoxV01_N.T_SimpleShops_TreeBoxV01_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

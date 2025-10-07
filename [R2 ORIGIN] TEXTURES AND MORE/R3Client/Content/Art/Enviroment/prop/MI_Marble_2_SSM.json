@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Marble_D_YJ.T_Marble_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Marble_D_YJ.T_Marble_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Marble_N_YJ.T_Marble_N_YJ",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Marble_N_YJ.T_Marble_N_YJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Ground/T_Marble_ORM_YJ.T_Marble_ORM_YJ",
+    "ORM": "/Game/Art/Enviroment/Ground/T_Marble_ORM_YJ.T_Marble_ORM_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.416667,
+        "G": 0.384015,
+        "B": 0.358073,
+        "A": 1.0,
+        "Hex": "ADA7A1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.5,
+      "Normal_Strength": 0.1,
+      "Roughness_Brightness": 0.5,
+      "Roughness_Contrast": 1.0,
+      "Metallic_Brightness": 0.5,
+      "Metallic_Contrast": 1.0,
+      "UVTiling": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

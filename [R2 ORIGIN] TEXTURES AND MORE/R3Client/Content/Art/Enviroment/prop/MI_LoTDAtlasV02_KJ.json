@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LoTDAtlasV02_D_KJ.T_LoTDAtlasV02_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LoTDAtlasV02_D_KJ.T_LoTDAtlasV02_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LoTDAtlasV02_N_KJ.T_LoTDAtlasV02_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_LoTDAtlasV02_N_KJ.T_LoTDAtlasV02_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.3,
+      "Roughness": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_M.oeecR_4K_Albedo_SJ_06_M",
+    "Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_M.oeecR_4K_Albedo_SJ_06_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

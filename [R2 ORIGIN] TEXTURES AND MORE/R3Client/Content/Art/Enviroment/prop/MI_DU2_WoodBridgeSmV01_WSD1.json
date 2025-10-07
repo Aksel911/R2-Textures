@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_D.T_DU2_WoodBridgeSmV01_KY_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_D.T_DU2_WoodBridgeSmV01_KY_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_N.T_DU2_WoodBridgeSmV01_KY_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_N.T_DU2_WoodBridgeSmV01_KY_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_ORM.T_DU2_WoodBridgeSmV01_KY_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_ORM.T_DU2_WoodBridgeSmV01_KY_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Three_Strand_Rope_D_SSM.T_Three_Strand_Rope_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Three_Strand_Rope_D_SSM.T_Three_Strand_Rope_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Three_Strand_Rope_N_SSM.T_Three_Strand_Rope_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Three_Strand_Rope_N_SSM.T_Three_Strand_Rope_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.608,
+      "Normal_Strength": 3.0,
+      "Roughness": 0.7,
+      "UVTiling": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

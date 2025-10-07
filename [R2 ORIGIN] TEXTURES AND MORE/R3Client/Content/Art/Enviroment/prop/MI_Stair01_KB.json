@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Stair01_D_KB.T_Stair01_D_KB",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Stair01_D_KB.T_Stair01_D_KB",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Ter_BL_RockyDirt_N.T_Ter_BL_RockyDirt_N",
+    "Normal_Base": "/Game/Art/Enviroment/prop/T_Stair01_N_KB.T_Stair01_N_KB",
+    "Normal_Detail": "/Game/Art/Enviroment/Ground/T_Ter_BL_RockyDirt_N.T_Ter_BL_RockyDirt_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Normal_Detail_Tiling": 1.2,
+      "Metallic": 0.0,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

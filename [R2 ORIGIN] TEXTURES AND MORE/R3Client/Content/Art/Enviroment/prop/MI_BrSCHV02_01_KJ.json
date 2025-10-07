@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "CrystalShell": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "T_Ice_Noise": "/Game/Art/Enviroment/Natrue/T_Ice_Noise.T_Ice_Noise",
+    "PM_Diffuse": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_YJ.T_FAB_BigCryStalV01_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_YJ.T_FAB_BigCryStalV01_D_YJ",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_YJ.T_FAB_BigCryStalV01_D_YJ",
+    "T_FAB_BigCryStalV01_D_YJ": "/Game/Art/Enviroment/Natrue/T_FAB_BigCryStalV01_D_YJ.T_FAB_BigCryStalV01_D_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color_1": {
+        "R": 0.590619,
+        "G": 0.371238,
+        "B": 0.074214,
+        "A": 1.0,
+        "Hex": "CAA44D"
+      },
+      "Color_2": {
+        "R": 0.708376,
+        "G": 0.3564,
+        "B": 0.0185,
+        "A": 1.0,
+        "Hex": "DBA125"
+      }
+    },
+    "Scalars": {
+      "CrystalShell_Amount": 0.01,
+      "CrystalShell_UV": 1.0,
+      "Diffuse_Strength": 0.3,
+      "Emissive_1_Strength": 0.2,
+      "Emissive_2_Strength": 0.5,
+      "HeightRatio": 0.1,
+      "Mask_Contrast": 1.0,
+      "Metallic": 5.0,
+      "Normal_Detail_Strength": 3.0,
+      "Normal_Detail_UV": 1.5,
+      "Normal_Main_Strength": 2.0,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

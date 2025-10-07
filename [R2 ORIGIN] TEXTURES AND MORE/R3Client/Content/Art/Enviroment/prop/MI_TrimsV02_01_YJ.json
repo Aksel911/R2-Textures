@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_TrimsV02_D_YJ.T_TrimsV02_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_TrimsV02_D_YJ.T_TrimsV02_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Cracked_Soil_V02_a_N_JS.T_Cracked_Soil_V02_a_N_JS",
+    "Normal_Base": "/Game/Art/Enviroment/prop/T_TrimsV02_N_SSM.T_TrimsV02_N_SSM",
+    "Normal_Detail": "/Game/Art/Enviroment/Ground/T_Cracked_Soil_V02_a_N_JS.T_Cracked_Soil_V02_a_N_JS",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_TrimsV02_ORM_SSM.T_TrimsV02_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_TrimsV02_ORM_SSM.T_TrimsV02_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.302418,
+        "G": 0.317,
+        "B": 0.310924,
+        "A": 0.0,
+        "Hex": "969997"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.328,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

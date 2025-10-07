@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU0_KeNetFenceV01_JS_D.T_DU0_KeNetFenceV01_JS_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU0_KeNetFenceV01_JS_D.T_DU0_KeNetFenceV01_JS_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU0_KeNetFenceV01_JS_N.T_DU0_KeNetFenceV01_JS_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU0_KeNetFenceV01_JS_N.T_DU0_KeNetFenceV01_JS_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.4,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

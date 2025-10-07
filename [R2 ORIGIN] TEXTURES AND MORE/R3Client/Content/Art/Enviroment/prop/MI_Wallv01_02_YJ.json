@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_RockGrass_Ground_V02_D_JS.T_RockGrass_Ground_V02_D_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_WallV01_WSD_D.T_WallV01_WSD_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WallV01_WSD_N.T_WallV01_WSD_N",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_WallV01_WSD_N.T_WallV01_WSD_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_RockGrass_Ground_V02_D_JS.T_RockGrass_Ground_V02_D_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/prop/T_WallV01_WSD_N.T_WallV01_WSD_N",
+    "Mask": "/Game/Art/Enviroment/Natrue/T_Mossy_Ground_ORM_SM.T_Mossy_Ground_ORM_SM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Natrue/T_Mossy_Ground_ORM_SM.T_Mossy_Ground_ORM_SM",
+    "T_Mossy_Ground_ORM_SM": "/Game/Art/Enviroment/Natrue/T_Mossy_Ground_ORM_SM.T_Mossy_Ground_ORM_SM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.617075,
+        "G": 0.808574,
+        "B": 0.869792,
+        "A": 1.0,
+        "Hex": "CEE9F0"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.697199,
+        "G": 1.0,
+        "B": 0.751779,
+        "A": 1.0,
+        "Hex": "DAFFE1"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.0,
+      "Base_Diffuse_Saturation": 0.5,
+      "Base_Roughness": 0.7,
+      "Detail_Diffuse_UVTiling": 1.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "AlphaOffset": 0.4,
+      "Blend_edge_thickness": 1.1,
+      "Mask_Strength": 0.1,
+      "Vert Mask Max": -0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

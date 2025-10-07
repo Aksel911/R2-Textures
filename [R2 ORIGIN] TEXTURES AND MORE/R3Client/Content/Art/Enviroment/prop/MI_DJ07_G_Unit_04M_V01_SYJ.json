@@ -1,0 +1,54 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_DJ07_G_Unit_04M_V01_D_YJ.T_DJ07_G_Unit_04M_V01_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_DJ07_G_Unit_04M_V01_N_FL.T_DJ07_G_Unit_04M_V01_N_FL",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.693934,
+        "G": 0.746365,
+        "B": 0.786458,
+        "A": 0.0,
+        "Hex": "D9E1E6"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.615852,
+        "B": 0.932126,
+        "A": 1.0,
+        "Hex": "FFCEF8"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 0.5,
+      "Detail_Diffuse_Brightness": 1.0,
+      "Detail_Diffuse_Saturation": 0.5,
+      "Detail_Diffuse_UVTiling": 1.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "Blend_edge_thickness": 3.1,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

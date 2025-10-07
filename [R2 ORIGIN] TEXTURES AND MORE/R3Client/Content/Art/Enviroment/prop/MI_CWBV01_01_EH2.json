@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_GrassyLayer_2k_D_YJ1.T_GrassyLayer_2k_D_YJ1",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_CWBV01_D_WSD.T_CWBV01_D_WSD",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_CWBV01_N_KJ.T_CWBV01_N_KJ",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_CWBV01_N_KJ.T_CWBV01_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_GrassyLayer_2k_D_YJ1.T_GrassyLayer_2k_D_YJ1"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 0.3,
+      "Base_Diffuse_Saturation": 0.648,
+      "Base_Metallic": 0.5,
+      "Base_Normal_Intensity": 1.3,
+      "Base_Roughness": -0.1,
+      "Detail_Diffuse_Saturation": 0.8,
+      "Detail_Roughness": 0.805983,
+      "AlphaOffset": 0.879688,
+      "Blend_edge_thickness": -0.184,
+      "CrackMask1": 1.0,
+      "CrackMask2": -7.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

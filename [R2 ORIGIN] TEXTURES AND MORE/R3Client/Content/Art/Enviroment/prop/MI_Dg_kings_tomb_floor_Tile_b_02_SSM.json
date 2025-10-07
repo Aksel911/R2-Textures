@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Tile_Floor_Broken_D_SSM.T_Tile_Floor_Broken_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Tile_Floor_Broken_D_SSM.T_Tile_Floor_Broken_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Tile_Floor_Broken_N_SSM.T_Tile_Floor_Broken_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Tile_Floor_Broken_N_SSM.T_Tile_Floor_Broken_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.793213,
+        "G": 0.838663,
+        "B": 0.890625,
+        "A": 0.0,
+        "Hex": "E7ECF3"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 1.16,
+      "Normal_Strength": 1.0,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

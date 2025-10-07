@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WoodBridge_YJ2_D.T_WoodBridge_YJ2_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WoodBridge_YJ2_D.T_WoodBridge_YJ2_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WoodBridge_YJ2_N.T_WoodBridge_YJ2_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_WoodBridge_YJ2_N.T_WoodBridge_YJ2_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

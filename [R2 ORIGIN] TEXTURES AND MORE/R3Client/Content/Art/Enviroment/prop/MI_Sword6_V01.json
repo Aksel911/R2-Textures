@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_sword6_V01_D.T_sword6_V01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_sword6_V01_D.T_sword6_V01_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_sword6_V01_N.T_sword6_V01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_sword6_V01_N.T_sword6_V01_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_sword6_V01_ORM.T_sword6_V01_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_sword6_V01_ORM.T_sword6_V01_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.807292,
+        "G": 0.687612,
+        "B": 0.504557,
+        "A": 1.0,
+        "Hex": "E8D8BD"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.488,
+      "Diffuse_Saturation": 0.576,
+      "Roughness_Contrast": 1.0,
+      "Metallic_Contrast": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

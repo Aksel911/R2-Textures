@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/Ground/T_Marble_D_YJ.T_Marble_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_N_01.oeecR_4K_Albedo_SJ_N_01",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_BaseTile_N.T_BaseTile_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_N_01.oeecR_4K_Albedo_SJ_N_01"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.458333,
+        "G": 0.450229,
+        "B": 0.434271,
+        "A": 1.0,
+        "Hex": "B5B3B0"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_UVTiling": 1.0,
+      "Base_Metallic": 0.45,
+      "Base_Normal_Intensity": 5.0,
+      "Base_Normal_UVTiling": 18.0,
+      "Base_Roughness": 0.3,
+      "Detail_Diffuse_UVTiling": 8.0,
+      "Blend_edge_thickness": 5.788443,
+      "CrackMask1": 0.1,
+      "CrackMask2": -0.6,
+      "Mask_Strength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

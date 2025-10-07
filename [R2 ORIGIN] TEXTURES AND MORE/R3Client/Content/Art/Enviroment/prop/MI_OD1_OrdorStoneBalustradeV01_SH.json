@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorStoneBalustradeV01_D_SH.T_OD1_OrdorStoneBalustradeV01_D_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorStoneBalustradeV01_D_SH.T_OD1_OrdorStoneBalustradeV01_D_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_OrdorStoneBalustradeV01_N_VD.T_OD1_OrdorStoneBalustradeV01_N_VD",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_OrdorStoneBalustradeV01_N_VD.T_OD1_OrdorStoneBalustradeV01_N_VD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.473958,
+        "G": 0.473958,
+        "B": 0.473958,
+        "A": 0.0,
+        "Hex": "B7B7B7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.2,
+      "Diffuse_Saturation": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

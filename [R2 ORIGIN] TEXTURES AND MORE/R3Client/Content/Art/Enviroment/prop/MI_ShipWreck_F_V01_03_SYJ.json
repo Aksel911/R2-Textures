@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_D_SYJ.T_ShipWreck_F_V01_03_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_D_SYJ.T_ShipWreck_F_V01_03_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_N_SYJ.T_ShipWreck_F_V01_03_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_N_SYJ.T_ShipWreck_F_V01_03_N_SYJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_ORM_SYJ.T_ShipWreck_F_V01_03_ORM_SYJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_ShipWreck_F_V01_03_ORM_SYJ.T_ShipWreck_F_V01_03_ORM_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.879637,
+        "G": 1.0,
+        "B": 0.739375,
+        "A": 1.0,
+        "Hex": "F1FFE0"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 1.3,
+      "Diffuse_Saturation": 0.6,
+      "Roughness_Contrast": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

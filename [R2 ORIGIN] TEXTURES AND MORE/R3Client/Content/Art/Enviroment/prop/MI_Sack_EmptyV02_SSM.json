@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Sack_EmptyV02_D_SSM.T_Sack_EmptyV02_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Sack_EmptyV02_D_SSM.T_Sack_EmptyV02_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Sack_EmptyV02_N_SSM.T_Sack_EmptyV02_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Sack_EmptyV02_N_SSM.T_Sack_EmptyV02_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.630208,
+        "G": 0.630208,
+        "B": 0.630208,
+        "A": 0.0,
+        "Hex": "D0D0D0"
+      }
+    },
+    "Scalars": {
+      "Specular": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

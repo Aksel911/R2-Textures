@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU3_StreetVendorV03_D_SY.T_DU3_StreetVendorV03_D_SY",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU3_StreetVendorV03_D_SY.T_DU3_StreetVendorV03_D_SY",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU3_StreetVendorV03_N_SY.T_DU3_StreetVendorV03_N_SY",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU3_StreetVendorV03_N_SY.T_DU3_StreetVendorV03_N_SY"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.677083,
+        "G": 0.677083,
+        "B": 0.677083,
+        "A": 0.0,
+        "Hex": "D7D7D7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

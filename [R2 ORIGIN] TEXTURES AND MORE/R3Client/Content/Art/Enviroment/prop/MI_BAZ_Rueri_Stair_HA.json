@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_D_HA.T_BAZ_Rueri_Stair_D_HA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_D_HA.T_BAZ_Rueri_Stair_D_HA",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_E_HA.T_BAZ_Rueri_Stair_E_HA",
+    "Emissive": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_E_HA.T_BAZ_Rueri_Stair_E_HA",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_N_HA.T_BAZ_Rueri_Stair_N_HA",
+    "Normal": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_Stair_N_HA.T_BAZ_Rueri_Stair_N_HA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.2,
+      "Roughness": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

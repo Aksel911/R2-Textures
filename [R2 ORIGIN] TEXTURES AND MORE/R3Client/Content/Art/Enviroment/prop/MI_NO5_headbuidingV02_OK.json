@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO5_headbuidingV02_D_SH_1.T_NO5_headbuidingV02_D_SH_1",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO5_headbuidingV02_D_SH_1.T_NO5_headbuidingV02_D_SH_1",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO5_headbuidingV02_N_OK.T_NO5_headbuidingV02_N_OK",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO5_headbuidingV02_N_OK.T_NO5_headbuidingV02_N_OK"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.385417,
+        "G": 0.36391,
+        "B": 0.315159,
+        "A": 1.0,
+        "Hex": "A7A398"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

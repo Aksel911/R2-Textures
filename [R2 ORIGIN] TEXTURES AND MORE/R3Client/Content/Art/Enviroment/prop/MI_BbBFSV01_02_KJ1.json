@@ -1,0 +1,61 @@
+{
+  "Textures": {
+    "CrystalShell": "/Game/Art/Effects/02_Texture/Smoke/FX_T_Noise_02.FX_T_Noise_02",
+    "FX_T_Noise_02": "/Game/Art/Effects/02_Texture/Smoke/FX_T_Noise_02.FX_T_Noise_02",
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BbBFSV01_D_KJ.T_BbBFSV01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BbBFSV01_D_KJ.T_BbBFSV01_D_KJ",
+    "Mask": "/Game/Art/Enviroment/prop/T_BbBFSV01_E_KJ.T_BbBFSV01_E_KJ",
+    "T_BbBFSV01_E_KJ": "/Game/Art/Enviroment/prop/T_BbBFSV01_E_KJ.T_BbBFSV01_E_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BbBFSV01_N_KJ.T_BbBFSV01_N_KJ",
+    "Normal_Detail": "/Game/Art/Effects/02_Texture/Wave/FX_T_SeamlessNormal_01.FX_T_SeamlessNormal_01",
+    "Normal_Main": "/Game/Art/Enviroment/prop/T_BbBFSV01_N_KJ.T_BbBFSV01_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color_1": {
+        "R": 0.052861,
+        "G": 0.009134,
+        "B": 0.084376,
+        "A": 1.0,
+        "Hex": "411852"
+      },
+      "Color_2": {
+        "R": 0.201556,
+        "G": 0.127438,
+        "B": 0.423268,
+        "A": 1.0,
+        "Hex": "7C64AE"
+      }
+    },
+    "Scalars": {
+      "CrystalShell_Amount": 0.12,
+      "CrystalShell_UV": 0.5,
+      "Diffuse_Strength": 0.01,
+      "Emissive_1_Strength": 0.5,
+      "Emissive_2_Strength": 0.0,
+      "HeightRatio": 0.3,
+      "Mask_Contrast": 0.5,
+      "Metallic": 1.5,
+      "Normal_Detail_Strength": 1.5,
+      "Normal_Detail_UV": 4.0,
+      "Normal_Main_Strength": 1.2,
+      "Roughness": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

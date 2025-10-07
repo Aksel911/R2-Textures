@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_D_yj.T_LB3_DraClothDecoration_D_yj",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_D_yj.T_LB3_DraClothDecoration_D_yj",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_N_YJ.T_LB3_DraClothDecoration_N_YJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_N_YJ.T_LB3_DraClothDecoration_N_YJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_ORM.T_LB3_DraClothDecoration_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_LB3_DraClothDecoration_ORM.T_LB3_DraClothDecoration_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.598579,
+        "G": 0.614583,
+        "B": 0.582574,
+        "A": 1.0,
+        "Hex": "CCCEC9"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 1.0,
+      "Normal_Strength": 1.0,
+      "Roughness_Contrast": 0.3,
+      "Metallic_Contrast": 0.5008,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

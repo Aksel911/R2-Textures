@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_StonBridgeV02_D.T_StonBridgeV02_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_StonBridgeV02_D.T_StonBridgeV02_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_StonBridgeV02_N.T_StonBridgeV02_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_StonBridgeV02_N.T_StonBridgeV02_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.328125,
+        "G": 0.328125,
+        "B": 0.328125,
+        "A": 0.0,
+        "Hex": "9B9B9B"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 0.5,
+      "Diffuse_Saturation": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

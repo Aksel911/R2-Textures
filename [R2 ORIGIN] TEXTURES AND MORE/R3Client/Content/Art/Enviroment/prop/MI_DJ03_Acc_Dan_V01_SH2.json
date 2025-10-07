@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DJ03_Dan_A1280cm_V01_01_FL_D_SH.T_DJ03_Dan_A1280cm_V01_01_FL_D_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DJ03_Dan_A1280cm_V01_01_FL_D_SH.T_DJ03_Dan_A1280cm_V01_01_FL_D_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DJ03_Dan_A1280cm_V01_01_FL_N.T_DJ03_Dan_A1280cm_V01_01_FL_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DJ03_Dan_A1280cm_V01_01_FL_N.T_DJ03_Dan_A1280cm_V01_01_FL_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.619792,
+        "G": 0.619792,
+        "B": 0.619792,
+        "A": 0.0,
+        "Hex": "CFCFCF"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 0.1,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

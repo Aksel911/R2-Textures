@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_PShrineV01_D.T_PShrineV01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_PShrineV01_D.T_PShrineV01_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_PShrineV01_N.T_PShrineV01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_PShrineV01_N.T_PShrineV01_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_PShrineV01_ORM.T_PShrineV01_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_PShrineV01_ORM.T_PShrineV01_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.37,
+      "Diffuse_Saturation": 0.7,
+      "RoughnessSc_mobile": 1.5,
+      "MetallicSc_mobile": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

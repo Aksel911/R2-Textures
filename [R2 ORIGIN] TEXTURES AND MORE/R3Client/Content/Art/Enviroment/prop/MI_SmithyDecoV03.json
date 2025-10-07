@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_D.T_SmithyDecoV03_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_D.T_SmithyDecoV03_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_N.T_SmithyDecoV03_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_N.T_SmithyDecoV03_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_ORM.T_SmithyDecoV03_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_SmithyDecoV03_ORM.T_SmithyDecoV03_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "AO_Contrast": 0.0,
+      "Roughness_Contrast": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_EagleFV01_D_KJ.T_EagleFV01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_EagleFV01_D_KJ.T_EagleFV01_D_KJ",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_EagleFV01_E_KJ.T_EagleFV01_E_KJ",
+    "Emissive": "/Game/Art/Enviroment/prop/T_EagleFV01_E_KJ.T_EagleFV01_E_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_EagleFV01_N_KJ.T_EagleFV01_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_EagleFV01_N_KJ.T_EagleFV01_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_EagleFV01_ORM_KJ.T_EagleFV01_ORM_KJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_EagleFV01_ORM_KJ.T_EagleFV01_ORM_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emissive_Color": {
+        "R": 0.156863,
+        "G": 0.376471,
+        "B": 0.603922,
+        "A": 1.0,
+        "Hex": "6EA5CC"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "AO_Contrast": 0.1,
+      "Roughness_Contrast": 1.0,
+      "Metallic_Contrast": 0.5,
+      "Emissive_Brightness": 0.6,
+      "Emissive_Contrast": 1.308,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

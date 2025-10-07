@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_GriffinV01_D_SSM.T_GriffinV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_GriffinV01_D_SSM.T_GriffinV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_GriffinV01_N_SSM.T_GriffinV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_GriffinV01_N_SSM.T_GriffinV01_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.5625,
+        "G": 0.5625,
+        "B": 0.5625,
+        "A": 0.0,
+        "Hex": "C6C6C6"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.2,
+      "Diffuse_Contrast": 0.8,
+      "Diffuse_Saturation": 0.9,
+      "Normal_Strength": 1.0,
+      "Roughness": 0.83,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

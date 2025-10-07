@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_TorchWV01_D_SSM.T_TorchWV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_TorchWV01_D_SSM.T_TorchWV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_TorchWV01_N_SSM.T_TorchWV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_TorchWV01_N_SSM.T_TorchWV01_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_TorchWV01_ORM_SSM.T_TorchWV01_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_TorchWV01_ORM_SSM.T_TorchWV01_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

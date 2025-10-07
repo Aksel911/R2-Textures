@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO3_Pillarv01_1_D_HA.T_NO3_Pillarv01_1_D_HA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO3_Pillarv01_1_D_HA.T_NO3_Pillarv01_1_D_HA",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Trampled_Snow_vckldfu_1K_N.T_Trampled_Snow_vckldfu_1K_N",
+    "Normal_Base": "/Game/Art/Enviroment/prop/T_NO3_Pillarv01_1_N_HA.T_NO3_Pillarv01_1_N_HA",
+    "Normal_Detail": "/Game/Art/Enviroment/Ground/T_Trampled_Snow_vckldfu_1K_N.T_Trampled_Snow_vckldfu_1K_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_NO3_Pillarv01_1_ORM_HA.T_NO3_Pillarv01_1_ORM_HA",
+    "ORM": "/Game/Art/Enviroment/prop/T_NO3_Pillarv01_1_ORM_HA.T_NO3_Pillarv01_1_ORM_HA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Detail_Tiling": 3.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

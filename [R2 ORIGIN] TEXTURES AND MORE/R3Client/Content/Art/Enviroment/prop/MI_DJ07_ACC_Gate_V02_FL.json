@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DJ07_ACC_Gate_V02_01_FL_D.T_DJ07_ACC_Gate_V02_01_FL_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DJ07_ACC_Gate_V02_01_FL_D.T_DJ07_ACC_Gate_V02_01_FL_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DJ07_ACC_Gate_V02_01_FL_N.T_DJ07_ACC_Gate_V02_01_FL_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DJ07_ACC_Gate_V02_01_FL_N.T_DJ07_ACC_Gate_V02_01_FL_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness_Mobile": 1.2,
+      "Diffuse_Contrast_Mobile": 0.9,
+      "MetallicSc_mobile": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

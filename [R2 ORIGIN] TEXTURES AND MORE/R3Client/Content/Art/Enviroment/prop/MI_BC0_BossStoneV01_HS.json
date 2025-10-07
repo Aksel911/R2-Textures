@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_D.T_BC0_BossStoneV01_HS_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_D.T_BC0_BossStoneV01_HS_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_E.T_BC0_BossStoneV01_HS_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_E.T_BC0_BossStoneV01_HS_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_N.T_BC0_BossStoneV01_HS_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_N.T_BC0_BossStoneV01_HS_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_ORM.T_BC0_BossStoneV01_HS_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_BC0_BossStoneV01_HS_ORM.T_BC0_BossStoneV01_HS_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness_Contrast": 0.6,
+      "Metallic_Brightness": 1.0,
+      "Metallic_Contrast": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

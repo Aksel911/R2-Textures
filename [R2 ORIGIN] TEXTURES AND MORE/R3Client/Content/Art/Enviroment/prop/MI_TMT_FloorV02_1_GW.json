@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_D.T_TMT_FloorAddV01_GW_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_D.T_TMT_FloorAddV01_GW_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_N.T_TMT_FloorAddV01_GW_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_N.T_TMT_FloorAddV01_GW_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_ORM.T_TMT_FloorAddV01_GW_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_TMT_FloorAddV01_GW_ORM.T_TMT_FloorAddV01_GW_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness_Contrast": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

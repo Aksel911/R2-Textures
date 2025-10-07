@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Room_Kundun_House_PartitionV2_D_JI.T_Room_Kundun_House_PartitionV2_D_JI",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Room_Kundun_House_PartitionV2_D_JI.T_Room_Kundun_House_PartitionV2_D_JI",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Room_Kundun_House_PartitionV2_N_JI.T_Room_Kundun_House_PartitionV2_N_JI",
+    "Normal": "/Game/Art/Enviroment/prop/T_Room_Kundun_House_PartitionV2_N_JI.T_Room_Kundun_House_PartitionV2_N_JI"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

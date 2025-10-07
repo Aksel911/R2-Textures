@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD0_FloorDecalV01_D_SSM.T_OD0_FloorDecalV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD0_FloorDecalV01_D_SSM.T_OD0_FloorDecalV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD0_FloorDecalV01_N_HA.T_OD0_FloorDecalV01_N_HA",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD0_FloorDecalV01_N_HA.T_OD0_FloorDecalV01_N_HA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.567708,
+        "G": 0.440483,
+        "B": 0.26907,
+        "A": 0.0,
+        "Hex": "C7B18E"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Saturation": 0.5,
+      "Metallic": 0.772,
+      "Roughness": 0.324,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

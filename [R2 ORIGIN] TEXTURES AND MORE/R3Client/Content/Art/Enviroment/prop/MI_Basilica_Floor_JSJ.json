@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Basilica_Floor_D_JSJ.T_Basilica_Floor_D_JSJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Basilica_Floor_D_JSJ.T_Basilica_Floor_D_JSJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Basilica_Floor_N_JSJ.T_Basilica_Floor_N_JSJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_Basilica_Floor_N_JSJ.T_Basilica_Floor_N_JSJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.5,
+        "G": 0.454545,
+        "B": 0.386364,
+        "A": 0.0,
+        "Hex": "BCB4A7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Saturation": 1.0,
+      "Normal_Strength": 1.0,
+      "Metallic": 0.4,
+      "Roughness": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

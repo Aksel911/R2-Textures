@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrim_D_WSD.T_Plains_FloorsTrim_D_WSD",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrim_D_WSD.T_Plains_FloorsTrim_D_WSD",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_NO0_LabyrinthPillarV01_N_HS.T_NO0_LabyrinthPillarV01_N_HS",
+    "Normal_Base": "/Game/Art/Enviroment/prop/T_Plains_FloorsTrim_N_SSM.T_Plains_FloorsTrim_N_SSM",
+    "Normal_Detail": "/Game/Art/Enviroment/Natrue/T_NO0_LabyrinthPillarV01_N_HS.T_NO0_LabyrinthPillarV01_N_HS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.853652,
+        "A": 0.0,
+        "Hex": "FFFFEE"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Saturation": 0.4,
+      "Normal_Base_Strength": 1.0,
+      "Normal_Detail_Strength": 1.0,
+      "Normal_Detail_Tiling": 1.0,
+      "Roughness": 0.464,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

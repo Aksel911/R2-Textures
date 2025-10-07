@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_D_SYJ.T_HarpyNestAlphaV01_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_D_SYJ.T_HarpyNestAlphaV01_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_N_SYJ.T_HarpyNestAlphaV01_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_N_SYJ.T_HarpyNestAlphaV01_N_SYJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_ORM_SYJ.T_HarpyNestAlphaV01_ORM_SYJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_HarpyNestAlphaV01_ORM_SYJ.T_HarpyNestAlphaV01_ORM_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.359375,
+        "G": 0.31536,
+        "B": 0.245199,
+        "A": 1.0,
+        "Hex": "A29888"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.8,
+      "Normal_Strength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

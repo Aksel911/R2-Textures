@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_D.T_DU0_WireFenceV01_01_VD_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_D.T_DU0_WireFenceV01_01_VD_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_N.T_DU0_WireFenceV01_01_VD_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_N.T_DU0_WireFenceV01_01_VD_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_ORM.T_DU0_WireFenceV01_01_VD_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_DU0_WireFenceV01_01_VD_ORM.T_DU0_WireFenceV01_01_VD_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.27002,
+        "G": 0.326444,
+        "B": 0.328125,
+        "A": 0.0,
+        "Hex": "8E9B9B"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.824,
+      "AO_Contrast": 0.272,
+      "Roughness_Contrast": 1.112,
+      "Metallic_Brightness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_HerbalStoreDecoV01_YJ1.T_OD1_HerbalStoreDecoV01_YJ1",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_HerbalStoreDecoV01_YJ1.T_OD1_HerbalStoreDecoV01_YJ1",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_HerbalStoreDecoV01_N_YJ.T_OD1_HerbalStoreDecoV01_N_YJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_HerbalStoreDecoV01_N_YJ.T_OD1_HerbalStoreDecoV01_N_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.75,
+        "G": 0.704824,
+        "B": 0.632812,
+        "A": 0.0,
+        "Hex": "E1DBD1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 1.0,
+      "Roughness": 0.456,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

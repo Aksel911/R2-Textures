@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_ClothV03_D_YJ.T_ClothV03_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_ClothV03_D_YJ.T_ClothV03_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ClothV03_N_SSM.T_ClothV03_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_ClothV03_N_SSM.T_ClothV03_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.463542,
+        "G": 0.314715,
+        "B": 0.214976,
+        "A": 0.0,
+        "Hex": "B59880"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.6,
+      "Roughness": 0.64,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

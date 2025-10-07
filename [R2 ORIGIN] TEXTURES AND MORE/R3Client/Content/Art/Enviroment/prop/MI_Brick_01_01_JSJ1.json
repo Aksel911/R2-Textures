@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Brick_01_01_D_SSM.T_Brick_01_01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Brick_01_01_D_SSM.T_Brick_01_01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Brick_01_01_N_SSM.T_Brick_01_01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Brick_01_01_N_SSM.T_Brick_01_01_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.399027,
+        "G": 0.436,
+        "B": 0.428326,
+        "A": 0.0,
+        "Hex": "AAB1AF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Saturation": 0.4,
+      "Roughness": 0.87,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

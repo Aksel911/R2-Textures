@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_FloordecalV01_D_HA.T_BAZ_Rueri_FloordecalV01_D_HA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_FloordecalV01_D_HA.T_BAZ_Rueri_FloordecalV01_D_HA",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_FloordecalV01_N_HA.T_BAZ_Rueri_FloordecalV01_N_HA",
+    "Normal": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_FloordecalV01_N_HA.T_BAZ_Rueri_FloordecalV01_N_HA"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.9952,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

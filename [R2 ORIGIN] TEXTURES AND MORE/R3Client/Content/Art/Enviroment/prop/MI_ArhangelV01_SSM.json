@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_ArchangelV01_D_SSM.T_ArchangelV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_ArchangelV01_D_SSM.T_ArchangelV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ArchangelV01_N_SSM.T_ArchangelV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_ArchangelV01_N_SSM.T_ArchangelV01_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.552083,
+        "G": 0.552083,
+        "B": 0.552083,
+        "A": 0.0,
+        "Hex": "C4C4C4"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Normal_Strength": 3.0,
+      "Roughness": 0.312,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

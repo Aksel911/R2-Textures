@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_TT0_TempleV01a_HJ_D.T_TT0_TempleV01a_HJ_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_TT0_TempleV01a_HJ_D.T_TT0_TempleV01a_HJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_TT0_TempleV01a_HJ_N.T_TT0_TempleV01a_HJ_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_TT0_TempleV01a_HJ_N.T_TT0_TempleV01a_HJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.969479,
+        "B": 0.623379,
+        "A": 0.0,
+        "Hex": "FFFCCF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "Roughness": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO3_ShowcaseV03_D_YHA.T_NO3_ShowcaseV03_D_YHA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO3_ShowcaseV03_D_YHA.T_NO3_ShowcaseV03_D_YHA",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO3_ShowcaseV03_N_YHA.T_NO3_ShowcaseV03_N_YHA",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO3_ShowcaseV03_N_YHA.T_NO3_ShowcaseV03_N_YHA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

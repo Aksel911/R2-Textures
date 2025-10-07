@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Roman_Mosaic_TrimV02_D.T_Roman_Mosaic_TrimV02_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Roman_Mosaic_TrimV02_D.T_Roman_Mosaic_TrimV02_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Roman_Mosaic_Trim_N.T_Roman_Mosaic_Trim_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_Roman_Mosaic_Trim_N.T_Roman_Mosaic_Trim_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.668948,
+        "G": 0.671875,
+        "B": 0.56854,
+        "A": 1.0,
+        "Hex": "D6D6C7"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.25,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

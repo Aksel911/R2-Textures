@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO5_ReptPartitionV01_YH_D_Atlas_SSM.T_NO5_ReptPartitionV01_YH_D_Atlas_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO5_ReptPartitionV01_YH_D_Atlas_SSM.T_NO5_ReptPartitionV01_YH_D_Atlas_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO5_ReptPartitionV01_YH_N_Atlas_SSM.T_NO5_ReptPartitionV01_YH_N_Atlas_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO5_ReptPartitionV01_YH_N_Atlas_SSM.T_NO5_ReptPartitionV01_YH_N_Atlas_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

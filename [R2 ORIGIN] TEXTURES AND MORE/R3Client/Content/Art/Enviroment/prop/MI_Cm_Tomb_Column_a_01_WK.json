@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Cm_Tomb_Column_a_01_SH2.T_Cm_Tomb_Column_a_01_SH2",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Cm_Tomb_Column_a_01_SH2.T_Cm_Tomb_Column_a_01_SH2",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Cm_Tomb_Column_a_01_WK_N.T_Cm_Tomb_Column_a_01_WK_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_Cm_Tomb_Column_a_01_WK_N.T_Cm_Tomb_Column_a_01_WK_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.625,
+        "G": 0.625,
+        "B": 0.625,
+        "A": 0.0,
+        "Hex": "CFCFCF"
+      }
+    },
+    "Scalars": {
+      "Metallic": 0.256,
+      "Roughness": 0.55,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

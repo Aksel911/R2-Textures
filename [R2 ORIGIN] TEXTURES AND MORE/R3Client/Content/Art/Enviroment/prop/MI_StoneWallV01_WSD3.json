@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_StoneWallV01_D_SSM.T_StoneWallV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_StoneWallV01_D_SSM.T_StoneWallV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_StoneWallV01_N_SSM.T_StoneWallV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_StoneWallV01_N_SSM.T_StoneWallV01_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_StoneWallV01_ORM_SSM.T_StoneWallV01_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_StoneWallV01_ORM_SSM.T_StoneWallV01_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.682292,
+        "G": 0.682292,
+        "B": 0.682292,
+        "A": 0.0,
+        "Hex": "D8D8D8"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 1.4,
+      "Diffuse_Saturation": 0.456,
+      "Specular": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

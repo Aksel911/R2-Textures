@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomwindowV01_D_HJ.T_NO0_ElfRoomwindowV01_D_HJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomwindowV01_D_HJ.T_NO0_ElfRoomwindowV01_D_HJ",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomwindowV01_E_HJ.T_NO0_ElfRoomwindowV01_E_HJ",
+    "Emissive": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomwindowV01_E_HJ.T_NO0_ElfRoomwindowV01_E_HJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomWindowV01_N_HJ.T_NO0_ElfRoomWindowV01_N_HJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO0_ElfRoomWindowV01_N_HJ.T_NO0_ElfRoomWindowV01_N_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

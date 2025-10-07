@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WaterFountainFloorV01_D_SYJ.T_WaterFountainFloorV01_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WaterFountainFloorV01_D_SYJ.T_WaterFountainFloorV01_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WaterFountainFloorV01_N_SYJ.T_WaterFountainFloorV01_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_WaterFountainFloorV01_N_SYJ.T_WaterFountainFloorV01_N_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.950593,
+        "B": 0.887327,
+        "A": 1.0,
+        "Hex": "FFFAF2"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.1,
+      "Diffuse_Saturation": 0.3,
+      "Roughness": 0.24,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

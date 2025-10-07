@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU0_BoisBoxV01_D_SD.T_DU0_BoisBoxV01_D_SD",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU0_BoisBoxV01_D_SD.T_DU0_BoisBoxV01_D_SD",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU0_BoisBoxV01_N_MJ.T_DU0_BoisBoxV01_N_MJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU0_BoisBoxV01_N_MJ.T_DU0_BoisBoxV01_N_MJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Roughness": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

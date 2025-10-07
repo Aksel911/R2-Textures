@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_SM_Crystal2_BaseColor.T_SM_Crystal2_BaseColor",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_SM_Crystal2_BaseColor.T_SM_Crystal2_BaseColor",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_SM_Crystal2_Normal.T_SM_Crystal2_Normal",
+    "Normal": "/Game/Art/Enviroment/prop/T_SM_Crystal2_Normal.T_SM_Crystal2_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.53776,
+        "G": 0.784559,
+        "B": 0.875,
+        "A": 0.0,
+        "Hex": "C2E6F1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Diffuse_Contrast": 0.776,
+      "Diffuse_Saturation": 0.7,
+      "Metallic": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_CM_ElfRuin_a_01_WK_D.T_CM_ElfRuin_a_01_WK_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_CM_ElfRuin_a_01_WK_D.T_CM_ElfRuin_a_01_WK_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_CM_ElfRuin_a_01_WK_N.T_CM_ElfRuin_a_01_WK_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_CM_ElfRuin_a_01_WK_N.T_CM_ElfRuin_a_01_WK_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.46,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "B5BCBC"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 0.5,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

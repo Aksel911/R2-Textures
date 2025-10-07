@@ -1,0 +1,66 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Mossy_Rocky_Ground_vcqhcig_1K_D_JSJ.T_Mossy_Rocky_Ground_vcqhcig_1K_D_JSJ",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_BbBFSV01_D_KJ.T_BbBFSV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Mossy_Rocky_Ground_vcqhcig_1K_N.T_Mossy_Rocky_Ground_vcqhcig_1K_N",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_BbBFSV01_N_KJ.T_BbBFSV01_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BbBFSV01_ORM_KJ.T_BbBFSV01_ORM_KJ",
+    "Base_ORM": "/Game/Art/Enviroment/prop/T_BbBFSV01_ORM_KJ.T_BbBFSV01_ORM_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Mossy_Rocky_Ground_vcqhcig_1K_D_JSJ.T_Mossy_Rocky_Ground_vcqhcig_1K_D_JSJ",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Mossy_Rocky_Ground_vcqhcig_1K_N.T_Mossy_Rocky_Ground_vcqhcig_1K_N",
+    "Mask": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M",
+    "Rockface_A_M": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.8,
+        "G": 0.8,
+        "B": 0.8,
+        "A": 1.0,
+        "Hex": "E8E8E8"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.701305,
+        "G": 0.854167,
+        "B": 0.422635,
+        "A": 1.0,
+        "Hex": "DAEEAE"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.5,
+      "Base_Diffuse_Saturation": 0.8,
+      "Base_Roughness_Brightness": 0.5,
+      "Base_Roughness_Contrast": 0.7,
+      "Detail_Diffuse_Brightness": 1.0,
+      "Detail_Diffuse_Saturation": 0.7,
+      "Detail_Diffuse_UVTiling": 9.0,
+      "Detail_Normal_Intensity": 2.0,
+      "Detail_Normal_UVTiling": 9.0,
+      "Detail_Roughness": 0.1,
+      "Detail_Specular": 6.0,
+      "AlphaOffset": 1.711505,
+      "Blend_edge_thickness": 0.739522,
+      "Mask_Strength": 0.0,
+      "Pixel vs Vertex normal": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

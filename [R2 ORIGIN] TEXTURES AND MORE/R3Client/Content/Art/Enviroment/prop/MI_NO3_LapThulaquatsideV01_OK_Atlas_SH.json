@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO3_LapThulaquatsideV01_OK_D_Atlas_SH.T_NO3_LapThulaquatsideV01_OK_D_Atlas_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO3_LapThulaquatsideV01_OK_D_Atlas_SH.T_NO3_LapThulaquatsideV01_OK_D_Atlas_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO3_LapThulaquatsideV01_OK_N_Atlas_SH.T_NO3_LapThulaquatsideV01_OK_N_Atlas_SH",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO3_LapThulaquatsideV01_OK_N_Atlas_SH.T_NO3_LapThulaquatsideV01_OK_N_Atlas_SH"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

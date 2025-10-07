@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_D.T_BAZ_Rueri_WallDecoV01_HA_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_D.T_BAZ_Rueri_WallDecoV01_HA_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_E.T_BAZ_Rueri_WallDecoV01_HA_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_E.T_BAZ_Rueri_WallDecoV01_HA_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_N.T_BAZ_Rueri_WallDecoV01_HA_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_N.T_BAZ_Rueri_WallDecoV01_HA_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_ORM.T_BAZ_Rueri_WallDecoV01_HA_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_BAZ_Rueri_WallDecoV01_HA_ORM.T_BAZ_Rueri_WallDecoV01_HA_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

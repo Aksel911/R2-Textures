@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_D_Atlas_JSJ.T_DU0_DragonboneV01_HA_D_Atlas_JSJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_D_Atlas_JSJ.T_DU0_DragonboneV01_HA_D_Atlas_JSJ",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_E_Atlas_JSJ.T_DU0_DragonboneV01_HA_E_Atlas_JSJ",
+    "Emissive": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_E_Atlas_JSJ.T_DU0_DragonboneV01_HA_E_Atlas_JSJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_N_Atlas_JSJ.T_DU0_DragonboneV01_HA_N_Atlas_JSJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU0_DragonboneV01_HA_N_Atlas_JSJ.T_DU0_DragonboneV01_HA_N_Atlas_JSJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.3,
+      "Roughness": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

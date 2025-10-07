@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_D_SSM.T_NO0_WallV02_01a_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_D_SSM.T_NO0_WallV02_01a_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_N_SSM.T_NO0_WallV02_01a_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_N_SSM.T_NO0_WallV02_01a_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_ORM_SSM.T_NO0_WallV02_01a_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_NO0_WallV02_01a_ORM_SSM.T_NO0_WallV02_01a_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.571875,
+        "G": 0.561709,
+        "B": 0.635417,
+        "A": 0.0,
+        "Hex": "C7C6D1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.8,
+      "Roughness_Contrast": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

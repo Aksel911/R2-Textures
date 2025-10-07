@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/Ground/T_Block_Base_V09_01_D_YJ.T_Block_Base_V09_01_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_N_JS.T_Base_RoadV02_01a_N_JS",
+    "Base_Normal": "/Game/Art/Enviroment/Ground/T_Block_Base_V09_01_D_YJ_N.T_Block_Base_V09_01_D_YJ_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_JS.T_Base_RoadV02_01a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Base_RoadV02_01a_N_JS.T_Base_RoadV02_01a_N_JS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.943962,
+        "B": 0.816,
+        "A": 1.0,
+        "Hex": "FFF9EA"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.74902,
+        "G": 0.682353,
+        "B": 0.6,
+        "A": 1.0,
+        "Hex": "E1D8CC"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.25,
+      "Base_Metallic": 0.2,
+      "Base_Normal_Intensity": 2.0,
+      "Base_Roughness": 0.5,
+      "Detail_Diffuse_Saturation": 0.848,
+      "Detail_Diffuse_UVTiling": 1.0,
+      "Detail_Normal_Intensity": -1.5,
+      "Detail_Normal_UVTiling": 1.0,
+      "Detail_Roughness": 0.8,
+      "Blend_edge_thickness": 1.425664,
+      "Mask_Strength": 0.0,
+      "Vert Mask Max": -0.137119,
+      "Vert Mask Min": -1.174982,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

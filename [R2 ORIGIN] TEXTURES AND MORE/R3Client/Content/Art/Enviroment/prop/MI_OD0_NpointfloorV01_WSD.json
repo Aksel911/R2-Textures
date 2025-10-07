@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD0_NpointplaceV01_GW_D.T_OD0_NpointplaceV01_GW_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD0_NpointplaceV01_GW_D.T_OD0_NpointplaceV01_GW_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD0_NpointplaceV01_GW_N.T_OD0_NpointplaceV01_GW_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD0_NpointplaceV01_GW_N.T_OD0_NpointplaceV01_GW_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.588542,
+        "G": 0.588542,
+        "B": 0.588542,
+        "A": 0.0,
+        "Hex": "CACACA"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.88,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

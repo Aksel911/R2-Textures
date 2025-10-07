@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU0_EnoInnwoodAV01_D_SP.T_DU0_EnoInnwoodAV01_D_SP",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU0_EnoInnwoodAV01_D_SP.T_DU0_EnoInnwoodAV01_D_SP",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU0_EnoInnwoodAV01_N_HS.T_DU0_EnoInnwoodAV01_N_HS",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU0_EnoInnwoodAV01_N_HS.T_DU0_EnoInnwoodAV01_N_HS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

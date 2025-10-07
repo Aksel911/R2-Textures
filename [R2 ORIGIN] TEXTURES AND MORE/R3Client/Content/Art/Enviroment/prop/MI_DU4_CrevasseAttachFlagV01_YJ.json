@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU4_CrevasseAttachFlagV01_HJ_D.T_DU4_CrevasseAttachFlagV01_HJ_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU4_CrevasseAttachFlagV01_HJ_D.T_DU4_CrevasseAttachFlagV01_HJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU4_CrevasseAttachFlagV01_HJ_N.T_DU4_CrevasseAttachFlagV01_HJ_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU4_CrevasseAttachFlagV01_HJ_N.T_DU4_CrevasseAttachFlagV01_HJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.645833,
+        "G": 0.573684,
+        "B": 0.485359,
+        "A": 0.0,
+        "Hex": "D3C8B9"
+      },
+      "WaveStrength": {
+        "R": 0.0,
+        "G": 2.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "00FF00"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

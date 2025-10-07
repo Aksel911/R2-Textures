@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_HouseWindowV02_D_SSM.T_HouseWindowV02_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_HouseWindowV02_D_SSM.T_HouseWindowV02_D_SSM",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_HouseWindowV02_E_SSM.T_HouseWindowV02_E_SSM",
+    "Emissive": "/Game/Art/Enviroment/prop/T_HouseWindowV02_E_SSM.T_HouseWindowV02_E_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_HouseWindowV02_N_SSM.T_HouseWindowV02_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_HouseWindowV02_N_SSM.T_HouseWindowV02_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "UVTiling": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

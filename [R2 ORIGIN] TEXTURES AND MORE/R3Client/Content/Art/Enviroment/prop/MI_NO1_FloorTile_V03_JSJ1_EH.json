@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_D_YJ_SH.T_Patterned_Floor_Tiles_V02_D_YJ_SH",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_D_YJ_SH.T_Patterned_Floor_Tiles_V02_D_YJ_SH",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_N_YJ.T_Patterned_Floor_Tiles_V02_N_YJ",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_N_YJ.T_Patterned_Floor_Tiles_V02_N_YJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_ORM_JSJ.T_Patterned_Floor_Tiles_V02_ORM_JSJ",
+    "ORM": "/Game/Art/Enviroment/Ground/T_Patterned_Floor_Tiles_V02_ORM_JSJ.T_Patterned_Floor_Tiles_V02_ORM_JSJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.494792,
+        "G": 0.494792,
+        "B": 0.494792,
+        "A": 0.0,
+        "Hex": "BBBBBB"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.3,
+      "Normal_Strength": 1.0,
+      "Roughness_Contrast": 1.5,
+      "Metallic_Contrast": 1.0,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

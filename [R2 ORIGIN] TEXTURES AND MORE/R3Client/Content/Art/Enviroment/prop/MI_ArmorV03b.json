@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Dry_Rocky_Ground_V04_a_JS.T_Dry_Rocky_Ground_V04_a_JS",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_ArmorV03d_D.T_ArmorV03d_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ArmorV03c_N.T_ArmorV03c_N",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_ArmorV03d_N.T_ArmorV03d_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Dry_Rocky_Ground_V04_a_JS.T_Dry_Rocky_Ground_V04_a_JS",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/T_Dry_Rocky_Ground_V04_a_N_JS.T_Dry_Rocky_Ground_V04_a_N_JS",
+    "Mask": "/Game/Art/Enviroment/prop/T_ArmorV03c_N.T_ArmorV03c_N",
+    "T_ArmorV03c_N": "/Game/Art/Enviroment/prop/T_ArmorV03c_N.T_ArmorV03c_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.392157,
+        "G": 0.305882,
+        "B": 0.180392,
+        "A": 1.0,
+        "Hex": "A89676"
+      },
+      "Detail_Diffuse_Color": {
+        "R": 0.473958,
+        "G": 0.343071,
+        "B": 0.222168,
+        "A": 1.0,
+        "Hex": "B79E82"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Saturation": 0.6,
+      "Base_Metallic": 0.7,
+      "Base_Normal_Intensity": 0.6,
+      "Base_Roughness": 0.43,
+      "Detail_Diffuse_UVTiling": 30.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "AlphaOffset": 0.432,
+      "Blend_edge_thickness": 1.0,
+      "CrackMask1": 57.0,
+      "Mask_Strength": 0.17,
+      "Vert Mask Min": -3.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

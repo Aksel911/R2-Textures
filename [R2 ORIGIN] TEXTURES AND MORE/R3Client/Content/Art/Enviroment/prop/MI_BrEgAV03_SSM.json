@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_BrEgAV03_D_KJ.T_BrEgAV03_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_N_Mask.oeecR_N_Mask",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_BrEgAV03_N_KJ.T_BrEgAV03_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_N_Mask.oeecR_N_Mask"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "AlphaOffset": 85.0,
+      "Blend_edge_thickness": 0.008,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

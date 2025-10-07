@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Plains_Terrain_Floors01_01_D_YJ.T_Plains_Terrain_Floors01_01_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Plains_Terrain_Floors01_01_D_YJ.T_Plains_Terrain_Floors01_01_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/RockSmooth0076_1_L_N.RockSmooth0076_1_L_N",
+    "Normal_Base": "/Game/Art/Enviroment/prop/T_Plains_Terrain_Floors01_03_N_YJ.T_Plains_Terrain_Floors01_03_N_YJ",
+    "Normal_Detail": "/Game/Art/Enviroment/Natrue/RockSmooth0076_1_L_N.RockSmooth0076_1_L_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.45,
+        "G": 0.409516,
+        "B": 0.350312,
+        "A": 0.0,
+        "Hex": "B3ACA0"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 0.7,
+      "Normal_Base_Strength": 2.0,
+      "Normal_Detail_Strength": 0.5,
+      "Normal_Detail_Tiling": 2.0,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

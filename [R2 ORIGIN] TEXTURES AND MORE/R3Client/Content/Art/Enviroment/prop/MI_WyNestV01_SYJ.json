@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WyNestV01_D.T_WyNestV01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WyNestV01_D.T_WyNestV01_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_WyNestV01_E.T_WyNestV01_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_WyNestV01_E.T_WyNestV01_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WyNestV01_N.T_WyNestV01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_WyNestV01_N.T_WyNestV01_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emissive_Color": {
+        "R": 0.0,
+        "G": 0.085674,
+        "B": 0.572917,
+        "A": 1.0,
+        "Hex": "0052C8"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.2,
+      "Normal_Strength": 2.0,
+      "Roughness": 0.5,
+      "Emissive_Brightness": 3.0,
+      "Emissive_Contrast": 4.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

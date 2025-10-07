@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU5_HpPotsV01_01_YJ_D.T_DU5_HpPotsV01_01_YJ_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU5_HpPotsV01_01_YJ_D.T_DU5_HpPotsV01_01_YJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU5_HpPotsV01_01_YJ_N.T_DU5_HpPotsV01_01_YJ_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU5_HpPotsV01_01_YJ_N.T_DU5_HpPotsV01_01_YJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.456,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

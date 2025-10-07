@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Sword_uitlbiaga_1K_D.T_Sword_uitlbiaga_1K_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Sword_uitlbiaga_1K_D.T_Sword_uitlbiaga_1K_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Sword_uitlbiaga_1K_N.T_Sword_uitlbiaga_1K_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_Sword_uitlbiaga_1K_N.T_Sword_uitlbiaga_1K_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Metallic": 0.944,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

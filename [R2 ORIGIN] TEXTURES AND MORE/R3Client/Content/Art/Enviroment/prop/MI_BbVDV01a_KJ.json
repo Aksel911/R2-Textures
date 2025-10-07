@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BbVDV01a_D_KJ.T_BbVDV01a_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BbVDV01a_D_KJ.T_BbVDV01a_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BbVDV01a_N_KJ.T_BbVDV01a_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_BbVDV01a_N_KJ.T_BbVDV01a_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BbVDV01a_ORM_KJ.T_BbVDV01a_ORM_KJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_BbVDV01a_ORM_KJ.T_BbVDV01a_ORM_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Contrast": 1.1,
+      "Diffuse_Saturation": 0.8,
+      "AOSc_mobile": 1.5,
+      "Roughness_Brightness": 0.7,
+      "Roughness_Contrast": 0.6,
+      "Metallic_Brightness": 0.8,
+      "Metallic_Contrast": 0.3,
+      "MetallicSc_mobile": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

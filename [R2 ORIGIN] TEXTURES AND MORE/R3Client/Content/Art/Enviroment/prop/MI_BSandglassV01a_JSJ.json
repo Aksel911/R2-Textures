@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "CubeMap": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/TC_HDR_2.TC_HDR_2",
+    "TC_HDR_2": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/TC_HDR_2.TC_HDR_2"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.572549,
+        "G": 0.980392,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "C8FDFF"
+      }
+    },
+    "Scalars": {
+      "CubeMap_Intensity": 0.05,
+      "Exponent": 3.0,
+      "Opacity": 0.15,
+      "Refraction": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

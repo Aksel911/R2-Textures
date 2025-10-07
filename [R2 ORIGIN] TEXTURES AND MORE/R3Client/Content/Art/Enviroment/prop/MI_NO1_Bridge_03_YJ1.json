@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO1_Bridge_03_D_KB.T_NO1_Bridge_03_D_KB",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO1_Bridge_03_D_KB.T_NO1_Bridge_03_D_KB",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_NO1_Bridge_03_N_KB.T_NO1_Bridge_03_N_KB",
+    "Normal": "/Game/Art/Enviroment/prop/T_NO1_Bridge_03_N_KB.T_NO1_Bridge_03_N_KB"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.265045,
+        "G": 0.270386,
+        "B": 0.322917,
+        "A": 1.0,
+        "Hex": "8D8E9A"
+      }
+    },
+    "Scalars": {
+      "Metallic": 0.1,
+      "Roughness": 0.4,
+      "UVTiling": 3.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

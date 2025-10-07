@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LC1_StoneBridgeV01_04_D_YH.T_LC1_StoneBridgeV01_04_D_YH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LC1_StoneBridgeV01_04_D_YH.T_LC1_StoneBridgeV01_04_D_YH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LC1_StoneBridgeV01_04_N_YH.T_LC1_StoneBridgeV01_04_N_YH",
+    "Normal": "/Game/Art/Enviroment/prop/T_LC1_StoneBridgeV01_04_N_YH.T_LC1_StoneBridgeV01_04_N_YH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

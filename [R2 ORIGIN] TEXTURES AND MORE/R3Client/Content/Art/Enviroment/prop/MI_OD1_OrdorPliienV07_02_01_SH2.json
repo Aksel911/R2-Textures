@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV07_02_D_SH5.T_OD1_OrdorPliienV07_02_D_SH5",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV07_02_D_SH5.T_OD1_OrdorPliienV07_02_D_SH5"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.84375,
+        "G": 0.645996,
+        "B": 0.648732,
+        "A": 0.0,
+        "Hex": "EDD3D3"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.0,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

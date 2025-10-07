@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_D_SS.T_Trimsheet_Stone_01_D_SS",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_D_SS.T_Trimsheet_Stone_01_D_SS",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_N_SSM.T_Trimsheet_Stone_01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_N_SSM.T_Trimsheet_Stone_01_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_ORM_SSM.T_Trimsheet_Stone_01_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_Trimsheet_Stone_01_ORM_SSM.T_Trimsheet_Stone_01_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.339,
+        "G": 0.339,
+        "B": 0.339,
+        "A": 0.0,
+        "Hex": "9E9E9E"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.3,
+      "Diffuse_Saturation": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

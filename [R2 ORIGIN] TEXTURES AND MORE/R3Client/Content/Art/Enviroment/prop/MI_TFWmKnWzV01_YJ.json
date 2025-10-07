@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_TFWmKnWzV01_D_KJ.T_TFWmKnWzV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_N_Mask.oeecR_N_Mask",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_TFWmKnWzV01_N_KJ.T_TFWmKnWzV01_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_D_Mask.oeecR_4K_Albedo_SJ_D_Mask",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_N_Mask.oeecR_N_Mask",
+    "Mask": "/Game/Art/Enviroment/Ground/T_Bandits_Base_V04_M.T_Bandits_Base_V04_M",
+    "T_Bandits_Base_V04_M": "/Game/Art/Enviroment/Ground/T_Bandits_Base_V04_M.T_Bandits_Base_V04_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Detail_Diffuse_Color": {
+        "R": 0.814537,
+        "G": 1.0,
+        "B": 0.882054,
+        "A": 1.0,
+        "Hex": "E9FFF2"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Brightness": 1.5,
+      "Base_Metallic": 1.0,
+      "Base_Roughness": 0.4,
+      "Detail_Normal_Intensity": 2.0,
+      "Detail_Normal_UVTiling": 1.0,
+      "AlphaOffset": 26.0,
+      "Blend_edge_thickness": 0.1,
+      "Mask_Strength": 0.5,
+      "Pixel vs Vertex normal": -0.289323,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

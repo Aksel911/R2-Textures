@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV06_02_D_VD.T_OD1_OrdorPliienV06_02_D_VD",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV06_02_D_VD.T_OD1_OrdorPliienV06_02_D_VD",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV06_02_N_D_VD.T_OD1_OrdorPliienV06_02_N_D_VD",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_OrdorPliienV06_02_N_D_VD.T_OD1_OrdorPliienV06_02_N_D_VD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.666667,
+        "G": 0.604726,
+        "B": 0.542198,
+        "A": 1.0,
+        "Hex": "D6CCC3"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

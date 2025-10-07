@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_LC0_CamelliaGate_Wall_D_02_KB.T_LC0_CamelliaGate_Wall_D_02_KB",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_LC0_CamelliaGate_Wall_D_02_KB.T_LC0_CamelliaGate_Wall_D_02_KB",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_LC0_CamelliaGate_Wall_N_02_KB.T_LC0_CamelliaGate_Wall_N_02_KB",
+    "Normal": "/Game/Art/Enviroment/prop/T_LC0_CamelliaGate_Wall_N_02_KB.T_LC0_CamelliaGate_Wall_N_02_KB"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.473958,
+        "G": 0.473958,
+        "B": 0.473958,
+        "A": 0.0,
+        "Hex": "B7B7B7"
+      }
+    },
+    "Scalars": {
+      "Roughness": 1.0,
+      "UVTiling": 1.36,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

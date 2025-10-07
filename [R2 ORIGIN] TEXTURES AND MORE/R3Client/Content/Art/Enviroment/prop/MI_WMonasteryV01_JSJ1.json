@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_WMonasteryV01_01_D_KJ.T_WMonasteryV01_01_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_WMonasteryV01_01_D_KJ.T_WMonasteryV01_01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_WMonasteryV01_N_M_SSM.T_WMonasteryV01_N_M_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_WMonasteryV01_N_M_SSM.T_WMonasteryV01_N_M_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_WMonasteryV01_ORM_M_SSM.T_WMonasteryV01_ORM_M_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_WMonasteryV01_ORM_M_SSM.T_WMonasteryV01_ORM_M_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.278431,
+        "G": 0.337255,
+        "B": 0.384314,
+        "A": 0.0,
+        "Hex": "909DA7"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

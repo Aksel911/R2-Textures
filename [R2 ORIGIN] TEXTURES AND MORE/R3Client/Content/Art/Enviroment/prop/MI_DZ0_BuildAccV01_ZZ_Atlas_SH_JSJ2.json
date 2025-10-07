@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV01_ZZ_D_Atlas_SH.T_DZ0_BuildAccV01_ZZ_D_Atlas_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV01_ZZ_D_Atlas_SH.T_DZ0_BuildAccV01_ZZ_D_Atlas_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV01_ZZ_N_Atlas_SH.T_DZ0_BuildAccV01_ZZ_N_Atlas_SH",
+    "Normal": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV01_ZZ_N_Atlas_SH.T_DZ0_BuildAccV01_ZZ_N_Atlas_SH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.200638,
+        "G": 0.21695,
+        "B": 0.23,
+        "A": 0.0,
+        "Hex": "7C8084"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

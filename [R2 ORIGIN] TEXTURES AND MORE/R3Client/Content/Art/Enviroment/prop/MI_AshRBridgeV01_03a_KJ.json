@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_03a_D_KJ.T_AshRBridgeV01_03a_D_KJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_03a_D_KJ.T_AshRBridgeV01_03a_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_03a_N_KJ.T_AshRBridgeV01_03a_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_AshRBridgeV01_03a_N_KJ.T_AshRBridgeV01_03a_N_KJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Strength": 5.0,
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

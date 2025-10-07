@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Royal_Society_FloorDecoV01_Ｄ_EH.T_Royal_Society_FloorDecoV01_Ｄ_EH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Royal_Society_FloorDecoV01_Ｄ_EH.T_Royal_Society_FloorDecoV01_Ｄ_EH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Royal_Society_FloorDecoV01_Ｎ_EH.T_Royal_Society_FloorDecoV01_Ｎ_EH",
+    "Normal": "/Game/Art/Enviroment/prop/T_Royal_Society_FloorDecoV01_Ｎ_EH.T_Royal_Society_FloorDecoV01_Ｎ_EH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.458333,
+        "G": 0.411379,
+        "B": 0.334201,
+        "A": 0.0,
+        "Hex": "B5AC9C"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 1.0,
+      "Diffuse_Saturation": 1.0,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

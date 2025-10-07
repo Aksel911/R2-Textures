@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_NO3_PotionV02_D_YHA.T_NO3_PotionV02_D_YHA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_NO3_PotionV02_D_YHA.T_NO3_PotionV02_D_YHA",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_NO3_PotionV02_D_YHA.T_NO3_PotionV02_D_YHA",
+    "Emissive": "/Game/Art/Enviroment/prop/T_NO3_PotionV02_D_YHA.T_NO3_PotionV02_D_YHA",
+    "PM_Normals": "/Game/Art/Enviroment/Natrue/T_Moss_N.T_Moss_N",
+    "Normal": "/Game/Art/Enviroment/Natrue/T_Moss_N.T_Moss_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emissive_Color": {
+        "R": 0.102266,
+        "G": 0.101268,
+        "B": 0.260417,
+        "A": 1.0,
+        "Hex": "5A598C"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 0.1,
+      "Metallic": 0.3,
+      "Roughness": 0.5,
+      "Emissive_Brightness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

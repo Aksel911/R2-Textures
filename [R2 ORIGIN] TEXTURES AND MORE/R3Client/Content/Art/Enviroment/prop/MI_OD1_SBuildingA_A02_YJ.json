@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_SBuildingA_02_D_JW.T_OD1_SBuildingA_02_D_JW",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_SBuildingA_02_D_JW.T_OD1_SBuildingA_02_D_JW"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.494792,
+        "G": 0.476347,
+        "B": 0.358494,
+        "A": 1.0,
+        "Hex": "BBB8A2"
+      }
+    },
+    "Scalars": {
+      "Normal_Strength": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

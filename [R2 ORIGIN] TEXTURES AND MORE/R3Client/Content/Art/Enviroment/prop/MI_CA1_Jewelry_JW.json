@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_CA1_Jewelry_D_JW.T_CA1_Jewelry_D_JW",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_CA1_Jewelry_D_JW.T_CA1_Jewelry_D_JW",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_CA1_Jewelry_N_JW.T_CA1_Jewelry_N_JW",
+    "Normal": "/Game/Art/Enviroment/prop/T_CA1_Jewelry_N_JW.T_CA1_Jewelry_N_JW"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.7,
+      "Metallic": 0.6,
+      "Roughness": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

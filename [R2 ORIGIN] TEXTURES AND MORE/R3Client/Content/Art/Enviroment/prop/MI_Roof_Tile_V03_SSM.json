@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Roof_Tile_V03_D_SSM.T_Roof_Tile_V03_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Roof_Tile_V03_D_SSM.T_Roof_Tile_V03_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Roof_Tile_V03_N_SSM.T_Roof_Tile_V03_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_Roof_Tile_V03_N_SSM.T_Roof_Tile_V03_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.484375,
+        "G": 0.402405,
+        "B": 0.322917,
+        "A": 0.0,
+        "Hex": "B9AA9A"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Saturation": 1.2,
+      "Normal_Strength": 3.0,
+      "Roughness": 0.6,
+      "UVTiling": 3.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

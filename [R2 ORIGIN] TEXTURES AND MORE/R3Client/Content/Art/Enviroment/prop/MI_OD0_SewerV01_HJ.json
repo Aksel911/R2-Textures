@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD0_SewerV01_D_HJ.T_OD0_SewerV01_D_HJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD0_SewerV01_D_HJ.T_OD0_SewerV01_D_HJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD0_SewerV01_N_HJ.T_OD0_SewerV01_N_HJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD0_SewerV01_N_HJ.T_OD0_SewerV01_N_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.833333,
+        "G": 0.782894,
+        "B": 0.537685,
+        "A": 0.0,
+        "Hex": "ECE5C2"
+      }
+    },
+    "Scalars": {
+      "Metallic": 0.744,
+      "Roughness": 0.272,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

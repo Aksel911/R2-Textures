@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_D.T_BelzStatueV01_01_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_D.T_BelzStatueV01_01_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_N.T_BelzStatueV01_01_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_N.T_BelzStatueV01_01_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_ORM.T_BelzStatueV01_01_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_BelzStatueV01_01_ORM.T_BelzStatueV01_01_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 1.3,
+      "Diffuse_Saturation": 1.1,
+      "Roughness_Brightness": 1.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

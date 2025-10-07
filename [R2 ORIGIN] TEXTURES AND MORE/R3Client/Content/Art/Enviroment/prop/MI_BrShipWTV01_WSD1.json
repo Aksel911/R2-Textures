@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Meteos_Floor_a_04_WSD.T_Ter_Meteos_Floor_a_04_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_BrShipWTV01_D_KJ.T_BrShipWTV01_D_KJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BrShipWTV01_N_KJ.T_BrShipWTV01_N_KJ",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_BrShipWTV01_N_KJ.T_BrShipWTV01_N_KJ",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Meteos_Floor_a_04_WSD.T_Ter_Meteos_Floor_a_04_WSD",
+    "Mask": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M",
+    "Rockface_A_M": "/Game/Art/Enviroment/Natrue/Rockface_A_M.Rockface_A_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "DetailAngle": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 1.0,
+        "A": 2.0,
+        "Hex": "0000FF"
+      }
+    },
+    "Scalars": {
+      "Base_Roughness": 0.0,
+      "Detail_Diffuse_Saturation": 0.8,
+      "Detail_Roughness": 0.3,
+      "AlphaOffset": -0.2,
+      "Blend_edge_thickness": 1.0,
+      "CrackMask1": 1.0,
+      "CrackMask2": 0.5,
+      "Mask_Strength": 0.52,
+      "Pixel vs Vertex normal": -0.966241,
+      "Vert Mask Max": 0.005,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

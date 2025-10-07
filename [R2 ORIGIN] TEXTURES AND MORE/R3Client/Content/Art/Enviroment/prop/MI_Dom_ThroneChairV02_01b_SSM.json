@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Dom_ThroneChairV02b_D_SSM.T_Dom_ThroneChairV02b_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Dom_ThroneChairV02b_D_SSM.T_Dom_ThroneChairV02b_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Dom_ThroneChairV02b_N_HJ.T_Dom_ThroneChairV02b_N_HJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_Dom_ThroneChairV02b_N_HJ.T_Dom_ThroneChairV02b_N_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.0,
+        "G": 0.908298,
+        "B": 0.803459,
+        "A": 1.0,
+        "Hex": "FFF5E8"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Diffuse_Saturation": 0.7,
+      "Metallic": 1.0,
+      "MetallicSc_mobile": 0.5,
+      "Roughness": 0.5,
+      "RoughnessSc_mobile": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

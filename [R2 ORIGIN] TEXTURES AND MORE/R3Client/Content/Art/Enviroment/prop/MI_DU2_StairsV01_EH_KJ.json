@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DU2_StairsV01_D_HJ.T_DU2_StairsV01_D_HJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DU2_StairsV01_D_HJ.T_DU2_StairsV01_D_HJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DU2_StairsV01_N_HJ.T_DU2_StairsV01_N_HJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_DU2_StairsV01_N_HJ.T_DU2_StairsV01_N_HJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.1875,
+        "G": 0.176393,
+        "B": 0.155273,
+        "A": 1.0,
+        "Hex": "78746E"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 1.2,
+      "Diffuse_Saturation": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

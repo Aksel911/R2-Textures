@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_D.T_OD1_UnderLightingDecoV01_VD_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_D.T_OD1_UnderLightingDecoV01_VD_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_E.T_OD1_UnderLightingDecoV01_VD_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_E.T_OD1_UnderLightingDecoV01_VD_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_N.T_OD1_UnderLightingDecoV01_VD_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_N.T_OD1_UnderLightingDecoV01_VD_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_ORM.T_OD1_UnderLightingDecoV01_VD_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_OD1_UnderLightingDecoV01_VD_ORM.T_OD1_UnderLightingDecoV01_VD_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

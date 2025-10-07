@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_rupa_maze_floorV01_01_D_KHS.T_BAZ_rupa_maze_floorV01_01_D_KHS",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BAZ_rupa_maze_floorV01_01_D_KHS.T_BAZ_rupa_maze_floorV01_01_D_KHS",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BAZ_rupa_maze_floorV01_01_N_KHS.T_BAZ_rupa_maze_floorV01_01_N_KHS",
+    "Normal": "/Game/Art/Enviroment/prop/T_BAZ_rupa_maze_floorV01_01_N_KHS.T_BAZ_rupa_maze_floorV01_01_N_KHS"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

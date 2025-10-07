@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_FE1_4WayRoom_V01_SSM1.T_FE1_4WayRoom_V01_SSM1",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_FE1_4WayRoom_V01_SSM1.T_FE1_4WayRoom_V01_SSM1"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.614583,
+        "G": 0.614583,
+        "B": 0.614583,
+        "A": 0.0,
+        "Hex": "CECECE"
+      }
+    },
+    "Scalars": {
+      "Roughness": 1.0,
+      "UVTiling": 1.215243,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

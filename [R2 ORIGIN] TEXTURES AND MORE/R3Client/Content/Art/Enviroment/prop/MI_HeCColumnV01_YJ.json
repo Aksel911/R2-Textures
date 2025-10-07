@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_HeCColumnV01_D_KJ_SH.T_HeCColumnV01_D_KJ_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_HeCColumnV01_D_KJ_SH.T_HeCColumnV01_D_KJ_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_HeCColumnV01_N_KJ.T_HeCColumnV01_N_KJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_HeCColumnV01_N_KJ.T_HeCColumnV01_N_KJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_HeCColumnV01_ORM_KJ_SH.T_HeCColumnV01_ORM_KJ_SH",
+    "ORM": "/Game/Art/Enviroment/prop/T_HeCColumnV01_ORM_KJ_SH.T_HeCColumnV01_ORM_KJ_SH"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.697917,
+        "G": 0.697917,
+        "B": 0.697917,
+        "A": 0.0,
+        "Hex": "DADADA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.85,
+      "Normal_Strength": 1.5,
+      "AO_Brightness": 1.0,
+      "AO_Contrast": 0.5,
+      "Roughness_Brightness": 1.0,
+      "Roughness_Contrast": 0.7,
+      "Metallic_Contrast": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

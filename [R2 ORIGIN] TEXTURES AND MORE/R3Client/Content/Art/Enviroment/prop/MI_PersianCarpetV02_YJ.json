@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_PersianCarpetV02_D_SSM.T_PersianCarpetV02_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_PersianCarpetV02_D_SSM.T_PersianCarpetV02_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_PersianCarpetV02_N_SSM.T_PersianCarpetV02_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_PersianCarpetV02_N_SSM.T_PersianCarpetV02_N_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.035943,
+        "G": 0.057873,
+        "B": 0.130208,
+        "A": 1.0,
+        "Hex": "354465"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Contrast": 0.15,
+      "Diffuse_Saturation": 0.4,
+      "Roughness": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Base_Diffuse": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_D.T_DU2_WoodBridgeSmV01_KY_D",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Base_Normal": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_N.T_DU2_WoodBridgeSmV01_KY_N",
+    "Detail_Diffuse": "/Game/Art/Enviroment/Ground/oeecR_4K_Albedo_SJ_06_WSD.oeecR_4K_Albedo_SJ_06_WSD",
+    "Detail_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "Mask": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal",
+    "oeecR_4K_Normal": "/Game/Art/Enviroment/Ground/oeecR_4K_Normal.oeecR_4K_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Diffuse_Color": {
+        "R": 0.947917,
+        "G": 0.732818,
+        "B": 0.552952,
+        "A": 1.0,
+        "Hex": "FADFC4"
+      }
+    },
+    "Scalars": {
+      "Base_Diffuse_Saturation": 0.6,
+      "Detail_Normal_Intensity": 2.0,
+      "AlphaOffset": -1.5,
+      "Blend_edge_thickness": 0.719836,
+      "CrackMask1": 2.32856,
+      "CrackMask2": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

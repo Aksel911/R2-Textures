@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_ClothScrollV01_VD_D.T_OD1_ClothScrollV01_VD_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_ClothScrollV01_VD_D.T_OD1_ClothScrollV01_VD_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_ClothScrollV01_VD_N.T_OD1_ClothScrollV01_VD_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_ClothScrollV01_VD_N.T_OD1_ClothScrollV01_VD_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.2
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_D_YSJ.T_ShipHullWoodV01_D_YSJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_D_YSJ.T_ShipHullWoodV01_D_YSJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_N_YSJ.T_ShipHullWoodV01_N_YSJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_N_YSJ.T_ShipHullWoodV01_N_YSJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_ORM_YSJ.T_ShipHullWoodV01_ORM_YSJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_ShipHullWoodV01_ORM_YSJ.T_ShipHullWoodV01_ORM_YSJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.84375,
+        "G": 0.660744,
+        "B": 0.584473,
+        "A": 1.0,
+        "Hex": "EDD5C9"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.7,
+      "Diffuse_Saturation": 0.9,
+      "Roughness_Contrast": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

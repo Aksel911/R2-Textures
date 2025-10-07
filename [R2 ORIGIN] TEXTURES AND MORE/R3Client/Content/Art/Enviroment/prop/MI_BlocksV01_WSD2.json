@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BlocksV01_D_SSM.T_BlocksV01_D_SSM",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BlocksV01_D_SSM.T_BlocksV01_D_SSM",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BlocksV01_N_SSM.T_BlocksV01_N_SSM",
+    "Normal": "/Game/Art/Enviroment/prop/T_BlocksV01_N_SSM.T_BlocksV01_N_SSM",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_BlocksV01_ORM_SSM.T_BlocksV01_ORM_SSM",
+    "ORM": "/Game/Art/Enviroment/prop/T_BlocksV01_ORM_SSM.T_BlocksV01_ORM_SSM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.666667,
+        "G": 0.666667,
+        "B": 0.666667,
+        "A": 0.0,
+        "Hex": "D6D6D6"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.5,
+      "Diffuse_Saturation": 0.472,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

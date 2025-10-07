@@ -1,0 +1,33 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_OD1_BasicBridgeV01_VD_D_Atlas_EH_SH2.T_OD1_BasicBridgeV01_VD_D_Atlas_EH_SH2",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_OD1_BasicBridgeV01_VD_D_Atlas_EH_SH2.T_OD1_BasicBridgeV01_VD_D_Atlas_EH_SH2",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_OD1_BasicBridgeV01_VD_N_Atlas_EH_SH.T_OD1_BasicBridgeV01_VD_N_Atlas_EH_SH",
+    "Normal": "/Game/Art/Enviroment/prop/T_OD1_BasicBridgeV01_VD_N_Atlas_EH_SH.T_OD1_BasicBridgeV01_VD_N_Atlas_EH_SH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 2.0,
+      "Diffuse_Contrast": 1.0,
+      "Diffuse_Saturation": 2.0,
+      "Metallic": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

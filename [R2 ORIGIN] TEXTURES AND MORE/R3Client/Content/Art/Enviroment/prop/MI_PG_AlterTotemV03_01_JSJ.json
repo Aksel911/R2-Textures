@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_PG_AlterTotemV03_01_D_HA.T_PG_AlterTotemV03_01_D_HA",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_PG_AlterTotemV03_01_D_HA.T_PG_AlterTotemV03_01_D_HA",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_PG_AlterTotemV03_01_N_HA.T_PG_AlterTotemV03_01_N_HA",
+    "Normal": "/Game/Art/Enviroment/prop/T_PG_AlterTotemV03_01_N_HA.T_PG_AlterTotemV03_01_N_HA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.380722,
+        "G": 0.437275,
+        "B": 0.466,
+        "A": 0.0,
+        "Hex": "A6B1B6"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.512,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

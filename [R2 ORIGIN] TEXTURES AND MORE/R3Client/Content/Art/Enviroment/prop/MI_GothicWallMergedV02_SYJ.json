@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BasilicaGardenWallV01_01_D_SYJ.T_BasilicaGardenWallV01_01_D_SYJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BasilicaGardenWallV01_01_D_SYJ.T_BasilicaGardenWallV01_01_D_SYJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_GothicWallMergedV01_01_N_SYJ.T_GothicWallMergedV01_01_N_SYJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_GothicWallMergedV01_01_N_SYJ.T_GothicWallMergedV01_01_N_SYJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.427219,
+        "G": 0.434,
+        "B": 0.420437,
+        "A": 1.0,
+        "Hex": "AFB0AE"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.75,
+      "Diffuse_Saturation": 0.3,
+      "Roughness": 0.78,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

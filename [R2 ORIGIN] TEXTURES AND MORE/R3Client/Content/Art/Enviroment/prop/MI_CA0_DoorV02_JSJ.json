@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_D_JSJ.T_CA0_DoorV03_D_JSJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_D_JSJ.T_CA0_DoorV03_D_JSJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_N_JSJ.T_CA0_DoorV03_N_JSJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_N_JSJ.T_CA0_DoorV03_N_JSJ",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_ORM_JSJ.T_CA0_DoorV03_ORM_JSJ",
+    "ORM": "/Game/Art/Enviroment/prop/T_CA0_DoorV03_ORM_JSJ.T_CA0_DoorV03_ORM_JSJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Saturation": 0.65,
+      "Roughness_Contrast": 0.4,
+      "Metallic_Contrast": 0.456,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

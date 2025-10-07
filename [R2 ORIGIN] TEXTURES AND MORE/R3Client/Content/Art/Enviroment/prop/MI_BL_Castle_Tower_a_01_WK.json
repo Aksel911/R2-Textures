@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_BL_WarmCorner_Crackedhouse_a_01_YSK_D.T_BL_WarmCorner_Crackedhouse_a_01_YSK_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_BL_WarmCorner_Crackedhouse_a_01_YSK_D.T_BL_WarmCorner_Crackedhouse_a_01_YSK_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_BL_WarmCorner_Crackedhouse_a_01_YSK_N.T_BL_WarmCorner_Crackedhouse_a_01_YSK_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_BL_WarmCorner_Crackedhouse_a_01_YSK_N.T_BL_WarmCorner_Crackedhouse_a_01_YSK_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "Normal_Strength": 1.0,
+      "Roughness": 0.83,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

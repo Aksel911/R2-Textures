@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_TuCastle04_D_SH.T_TuCastle04_D_SH",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_TuCastle04_D_SH.T_TuCastle04_D_SH",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_TuCastle04_N_SH.T_TuCastle04_N_SH",
+    "Normal": "/Game/Art/Enviroment/prop/T_TuCastle04_N_SH.T_TuCastle04_N_SH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_D.T_DZ0_BuildAccV17_ZZ_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_D.T_DZ0_BuildAccV17_ZZ_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_E.T_DZ0_BuildAccV17_ZZ_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_E.T_DZ0_BuildAccV17_ZZ_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_N.T_DZ0_BuildAccV17_ZZ_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_N.T_DZ0_BuildAccV17_ZZ_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_ORM.T_DZ0_BuildAccV17_ZZ_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_DZ0_BuildAccV17_ZZ_ORM.T_DZ0_BuildAccV17_ZZ_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.230036,
+        "G": 0.283056,
+        "B": 0.307,
+        "A": 0.0,
+        "Hex": "849197"
+      },
+      "Emissive_Color": {
+        "R": 0.06,
+        "G": 0.0,
+        "B": 0.08,
+        "A": 1.0,
+        "Hex": "450050"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Emissive_Brightness": 2.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

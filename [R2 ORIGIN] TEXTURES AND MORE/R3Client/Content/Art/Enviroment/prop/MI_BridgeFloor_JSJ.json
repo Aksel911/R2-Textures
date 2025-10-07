@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Desert_b_LKY.T_Ter_Desert_b_LKY",
+    "Diffuse": "/Game/Art/Enviroment/Ground/T_Ter_Desert_b_LKY.T_Ter_Desert_b_LKY",
+    "PM_Normals": "/Game/Art/Enviroment/Ground/T_Ter_Desert_b_N_LKY.T_Ter_Desert_b_N_LKY",
+    "Normal": "/Game/Art/Enviroment/Ground/T_Ter_Desert_b_N_LKY.T_Ter_Desert_b_N_LKY"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.608085,
+        "G": 0.734375,
+        "B": 0.638172,
+        "A": 0.0,
+        "Hex": "CDDFD1"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Diffuse_Contrast": 1.0,
+      "Diffuse_Saturation": 1.0,
+      "Normal_Strength": 3.0,
+      "UVTiling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_StoresV04_D_YJ.T_StoresV04_D_YJ",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_StoresV04_D_YJ.T_StoresV04_D_YJ",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_STORE_V04_N_YJ.T_STORE_V04_N_YJ",
+    "Normal": "/Game/Art/Enviroment/prop/T_STORE_V04_N_YJ.T_STORE_V04_N_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.786458,
+        "G": 0.778888,
+        "B": 0.734002,
+        "A": 0.0,
+        "Hex": "E6E5DF"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

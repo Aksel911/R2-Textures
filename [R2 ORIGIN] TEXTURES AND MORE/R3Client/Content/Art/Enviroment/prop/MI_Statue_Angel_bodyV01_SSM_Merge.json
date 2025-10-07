@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_Angel_bodyV01_D_SSM_Merge.T_Angel_bodyV01_D_SSM_Merge",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_Angel_bodyV01_D_SSM_Merge.T_Angel_bodyV01_D_SSM_Merge",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_Angel_bodyV01_N_SSM_Merge.T_Angel_bodyV01_N_SSM_Merge",
+    "Normal": "/Game/Art/Enviroment/prop/T_Angel_bodyV01_N_SSM_Merge.T_Angel_bodyV01_N_SSM_Merge"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

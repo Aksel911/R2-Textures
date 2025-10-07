@@ -1,0 +1,73 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/Ground/T_WaterV01_N_WSD.T_WaterV01_N_WSD",
+    "Base_Normal_Texture": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_N.T_DU2_WoodBridgeSmV01_KY_N",
+    "Base_Texture": "/Game/Art/Enviroment/prop/T_DU2_WoodBridgeSmV01_KY_D.T_DU2_WoodBridgeSmV01_KY_D",
+    "Grass,Snow_Texture": "/Game/Art/Enviroment/Ground/T_ForestGround_D.T_ForestGround_D",
+    "Rain_Normal_Texture": "/Game/Art/Enviroment/Ground/T_WaterV01_N_WSD.T_WaterV01_N_WSD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_Texture_Color": {
+        "R": 0.697917,
+        "G": 0.643193,
+        "B": 0.547065,
+        "A": 1.0,
+        "Hex": "DAD2C3"
+      },
+      "Rain_Texture_Color": {
+        "R": 0.284291,
+        "G": 0.379983,
+        "B": 0.416667,
+        "A": 1.0,
+        "Hex": "91A6AD"
+      },
+      "Base_normal_strength": {
+        "R": 1.0,
+        "G": 3.0,
+        "B": 0.8,
+        "A": 1.0,
+        "Hex": "FFFFE8"
+      },
+      "Rain_normal_strength": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 3.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "FakeSpec_Intensity": 0.0,
+      "Bump_intensity": 1.0,
+      "Diffuse_Edge_Hilight_intensity": 1.0,
+      "Rain_NormalLightAngle": 0.25,
+      "Roughness_intensity": 1.0,
+      "Grass,Snow_Roughness01High": 0.1,
+      "Grass,Snow_Roughness01Low": 1.0,
+      "Road_Roughness01Low": 1.0,
+      "Rock_Roughness01High": 0.8,
+      "Rock_Roughness01Low": -2.0,
+      "Base_Texture_UVScale": 1.0,
+      "Grass,Snow_Texture_UVScale": 6.0,
+      "Rain_Speed": 0.01,
+      "Rain_Texture_UVScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

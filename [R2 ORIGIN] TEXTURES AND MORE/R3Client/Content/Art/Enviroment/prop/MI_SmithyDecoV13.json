@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_D.T_SmithyDecoV13_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_D.T_SmithyDecoV13_D",
+    "PM_Emissive": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_E.T_SmithyDecoV13_E",
+    "Emissive": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_E.T_SmithyDecoV13_E",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_N.T_SmithyDecoV13_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_N.T_SmithyDecoV13_N",
+    "PM_SpecularMasks": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_ORM.T_SmithyDecoV13_ORM",
+    "ORM": "/Game/Art/Enviroment/prop/T_SmithyDecoV13_ORM.T_SmithyDecoV13_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "AO_Contrast": 0.5,
+      "Roughness_Contrast": 1.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

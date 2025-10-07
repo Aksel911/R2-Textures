@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Enviroment/prop/T_RockWallV01_KJ_D.T_RockWallV01_KJ_D",
+    "Diffuse": "/Game/Art/Enviroment/prop/T_RockWallV01_KJ_D.T_RockWallV01_KJ_D",
+    "PM_Normals": "/Game/Art/Enviroment/prop/T_RockWallV01_KJ_N.T_RockWallV01_KJ_N",
+    "Normal": "/Game/Art/Enviroment/prop/T_RockWallV01_KJ_N.T_RockWallV01_KJ_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.588542,
+        "G": 0.588542,
+        "B": 0.588542,
+        "A": 0.0,
+        "Hex": "CACACA"
+      }
+    },
+    "Scalars": {
+      "Diffuse_Brightness": 1.0,
+      "Roughness": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
