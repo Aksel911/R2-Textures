@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "01.MainTexture": "/Game/Art/Effects/02_Texture/Smoke/FX_T_SmokeTile_02.FX_T_SmokeTile_02",
+    "FX_T_SmokeTile_02": "/Game/Art/Effects/02_Texture/Smoke/FX_T_SmokeTile_02.FX_T_SmokeTile_02",
+    "01.MaskTexture": "/Game/Art/Effects/02_Texture/Light/FX_T_RongTrail_01.FX_T_RongTrail_01",
+    "FX_T_RongTrail_01": "/Game/Art/Effects/02_Texture/Light/FX_T_RongTrail_01.FX_T_RongTrail_01"
+  },
+  "Parameters": {
+    "BlendMode": 3,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

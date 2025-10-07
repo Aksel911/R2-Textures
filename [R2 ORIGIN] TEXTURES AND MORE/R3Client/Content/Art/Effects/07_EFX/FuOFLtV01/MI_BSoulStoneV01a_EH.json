@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "CubeMap": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/TC_HDR01.TC_HDR01",
+    "TC_HDR01": "/Game/Art/Enviroment/Water/WaterPlane/Environment/HDRI/TC_HDR01.TC_HDR01",
+    "Detail": "/Game/Art/Enviroment/Ground/LT_Snow_Ice_V05_YJ.LT_Snow_Ice_V05_YJ",
+    "LT_Snow_Ice_V05_YJ": "/Game/Art/Enviroment/Ground/LT_Snow_Ice_V05_YJ.LT_Snow_Ice_V05_YJ"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Center_Color": {
+        "R": 0.06,
+        "G": 0.16,
+        "B": 0.3,
+        "A": 1.0,
+        "Hex": "456F95"
+      },
+      "TopBottom_Color": {
+        "R": 0.0,
+        "G": 0.019999,
+        "B": 0.3,
+        "A": 1.0,
+        "Hex": "002695"
+      }
+    },
+    "Scalars": {
+      "CubeMap_Intensity": 1.0,
+      "Detail_Intensity": 1.0,
+      "Detail_UV": 1.0,
+      "Opacity_Center": 0.4,
+      "Opacity_TopBottom": 0.7,
+      "Roughness": 0.01,
+      "BaseReflectFraction": 0.04,
+      "Exponent": 5.0,
+      "Refraction": 1.5,
+      "TopBottom_Intensity": 4.2,
+      "TopBottom_Power": 1.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}
