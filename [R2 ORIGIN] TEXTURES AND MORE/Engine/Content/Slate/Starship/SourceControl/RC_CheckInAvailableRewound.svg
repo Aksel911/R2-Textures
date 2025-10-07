@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M 12.92 26.449 C 12.547 26.449 12.245 26.288 12.245 26.088 L 12.277 23.686 C 12.86 23.692 12.547 23.692 12.92 23.692 C 13.292 23.692 12.922 23.69 13.606 23.698 L 13.594 26.088 C 13.594 26.288 13.292 26.449 12.92 26.449 Z" style="fill: rgb(128, 128, 128); stroke-miterlimit: 1;"/>
+  <circle cx="13" cy="13" r="6" fill="#1E1E1E" style="fill-opacity: 0; stroke: rgb(0, 0, 0);"/>
+  <rect x="9.741" y="14.953" width="6.441" height="1.032" rx="0.5" style="fill: rgb(0, 0, 0);"/>
+  <path d="M 14.763 11.404 L 12.961 9.819 L 11.158 11.404" stroke-miterlimit="10" stroke-linecap="round" style="stroke: rgb(0, 0, 0);"/>
+  <path d="M 12.961 13.898 L 12.961 10.273" stroke-miterlimit="10" stroke-linecap="round" style="stroke: rgb(0, 0, 0);"/>
+</svg>

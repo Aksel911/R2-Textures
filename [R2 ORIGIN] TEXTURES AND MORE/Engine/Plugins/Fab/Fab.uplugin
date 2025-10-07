@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"Version": 6,
+	"VersionName": "0.0.6",
+	"FriendlyName": "Fab",
+	"Description": "Fab Plugin",
+	"Category": "Other",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "Fab",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault",
+			"PlatformAllowList": [
+				"Linux",
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Interchange",
+			"Enabled": true,
+			"PlatformAllowList": [
+				"Linux",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "EditorDataStorageFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSShared",
+			"Enabled": true,
+			"PlatformAllowList": [
+				"Linux",
+				"Win64",
+				"Mac"
+			],
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

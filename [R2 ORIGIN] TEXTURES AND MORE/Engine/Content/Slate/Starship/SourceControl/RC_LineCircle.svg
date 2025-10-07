@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group 7770" transform="matrix(2.052354, 0, 0, 2.081305, 4.850368, 0.020322)">
+    <circle id="Ellipse 1097" cx="3.971" cy="6.236" r="1.96" fill="#1A1A1A" style="fill-opacity: 0; stroke-width: 0.483833px; stroke: rgb(128, 128, 128);"/>
+    <path id="path-2" fill-rule="evenodd" clip-rule="evenodd" d="M 4.347 12.473 C 4.362 12.477 3.61 12.477 3.595 12.473 L 3.595 8.406 C 3.595 8.252 3.763 8.124 3.971 8.124 C 4.179 8.124 4.347 8.252 4.347 8.406 L 4.347 12.473 Z" fill="#808080" style="stroke-miterlimit: 1; stroke-width: 0px;"/>
+    <path id="path-1" fill-rule="evenodd" clip-rule="evenodd" d="M 4.347 4.165 C 4.362 4.169 3.61 4.169 3.595 4.165 L 3.595 0.098 C 3.595 -0.056 3.763 -0.184 3.971 -0.184 C 4.179 -0.184 4.347 -0.056 4.347 0.098 L 4.347 4.165 Z" fill="#808080" style="stroke-miterlimit: 1; stroke-width: 0px;"/>
+  </g>
+</svg>

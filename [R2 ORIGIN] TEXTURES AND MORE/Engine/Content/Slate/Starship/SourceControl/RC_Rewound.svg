@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group 7757" transform="matrix(1.090909, 0, 0, 1.090909, 5.885658, 6.369324)">
+    <circle id="Ellipse 1092" cx="6.52148" cy="6.07812" r="5.5" style="stroke: rgb(0, 0, 0);"/>
+    <g id="Group 7652">
+      <path id="Line 408" d="M6.52099 3.2041L6.52099 6.07852L8.24268 6.07852" stroke-width="1.25" stroke-linecap="round" style="" stroke="#242424"/>
+    </g>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M 12.994 26.463 C 12.621 26.463 12.319 26.302 12.319 26.102 L 12.351 23.7 C 12.934 23.706 12.621 23.706 12.994 23.706 C 13.366 23.706 12.996 23.704 13.68 23.712 L 13.668 26.102 C 13.668 26.302 13.366 26.463 12.994 26.463 Z" style="fill: rgb(128, 128, 128); stroke-miterlimit: 1;"/>
+</svg>

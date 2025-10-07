@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MetaHuman SDK",
+	"Description": "Utilities and tools for working with MetaHumans in Unreal Engine.",
+	"Category": "MetaHuman",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsExperimentalVersion": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "MetaHumanSDKEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "MetaHumanSDKRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSShared",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]			
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "MetaHumanSDK",
+			"LoadingPolicy": "Editor",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}
