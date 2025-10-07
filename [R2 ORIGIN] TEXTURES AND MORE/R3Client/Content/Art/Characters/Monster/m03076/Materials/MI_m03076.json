@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_D.T_m03076_D",
+    "Diffuse": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_D.T_m03076_D",
+    "PM_Emissive": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_E.T_m03076_E",
+    "Emissive": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_E.T_m03076_E",
+    "PM_Normals": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_N.T_m03076_N",
+    "Normal": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_N.T_m03076_N",
+    "PM_SpecularMasks": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_ORM.T_m03076_ORM",
+    "ORM": "/Game/Art/Characters/Monster/m03076/Textures/T_m03076_ORM.T_m03076_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
